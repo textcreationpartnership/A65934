@@ -1,0 +1,1622 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The upright man and his happy end opened and applyed in a sermon preached at the funerals of the Honourable Francis Pierrepoint Esq., third son to the Right Honourable Robert, late Earl of Kingston, on the 18th of March 1657 in the parish church of Holm Pierepont in Nottinghamshire, the place of his interrement / by John Whitlock.</title>
+            <author>Whitlock, John, 1625-1709.</author>
+         </titleStmt>
+         <extent>Approx. 137 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65934</idno><idno type="EEBO-CITATION">9638611</idno>
+  <idno type="VID">43875</idno>
+  <idno type="EEBO-PROQUEST">2248509054</idno>
+  
+            <idno type="STC">Wing W2026</idno>
+            <idno type="STC">ESTC R27069</idno>
+            <idno type="OCLC">09638611</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A65934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43875)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1346:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The upright man and his happy end opened and applyed in a sermon preached at the funerals of the Honourable Francis Pierrepoint Esq., third son to the Right Honourable Robert, late Earl of Kingston, on the 18th of March 1657 in the parish church of Holm Pierepont in Nottinghamshire, the place of his interrement / by John Whitlock.</title>
+                  <author>Whitlock, John, 1625-1709.</author>
+               </titleStmt>
+               <extent>44, [20] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D.M. for John Rothwell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes elegiac verses: [20] p. at end.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Pierepont, Francis, d. 1658.</term>
+               <term type="topical_term">Funeral sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43875:1"/>
+            <pb facs="tcp:43875:1"/>
+            <p>THE UPRIGHT MAN And His HAPPY END: Opened and Applyed IN A SERMON Preached at the FUNERALS Of the HONOURABLE <hi>FRANCIS PIERREPONT,</hi> Esq; Third Son to the Right Honourable <hi>ROBERT,</hi> late Earl of <hi>Kingston,</hi> On the 18<seg rend="sup">th</seg> of <hi>March</hi> 1657, in the Parish Church of <hi>Holm Pierepont</hi> in <hi>Nottinghamshire</hi> the Place of his Interrement.</p>
+            <p>By <hi>JOHN WHITLOCK,</hi> M.A. <hi>Minister of the Gospel at S.</hi> Maries, <hi>Nottingham.</hi>
+            </p>
+            <q>
+               <p>Ʋnto the Ʋpright there ariseth Light in the darkness,</p>
+               <bibl>
+                  <hi>Psal. 112.4.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>He shall enter into Peace, they shal rest in their beds, each one walk<g ref="char:EOLhyphen"/>ing in his uprightness,</p>
+               <bibl>
+                  <hi>Isai. 57.2.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>D M.</hi> for <hi>John Rothwell</hi> at the Fountain in Goldsmiths Row in Cheapside, 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:43875:2"/>
+            <pb n="1" facs="tcp:43875:2"/>
+            <head>A SERMON Preached at the FUNERAL SOLEMNITIES Of the HONOURABLE <hi>FRANCIS PIERREPONT,</hi> Esq; Third Son to the Right Honourable <hi>ROBERT</hi> late Earle of <hi>Kingston,</hi> upon the 18<seg rend="sup">th</seg> of March, 1657.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 37. ver. 37.</hi>
+                  </bibl>
+                  <p>Mark the Perfect Man, and behold the Upright, for the end of that Man is Peace.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg> Have a double Text afforded me to preach on, from both which God speaks to you this day: The one that portion of Scri<g ref="char:EOLhyphen"/>pture I have now read unto you; the o<g ref="char:EOLhyphen"/>ther that sad dispensation of Divine Pro<g ref="char:EOLhyphen"/>vidence, which hath occasioned our pre<g ref="char:EOLhyphen"/>sent Meeting together; namely, The late Death, and now sad Funerals of that Per<g ref="char:EOLhyphen"/>son of Honour, whose Hearse we have now followed. From the former God hath sent me (his poor unworthy Messenger) to
+<pb n="2" facs="tcp:43875:3"/>preach unto your ears; by the latter God himselfe hath preached to your eyes. I shall earnestly pray that by both God would please to speake to all our hearts, that wee may be taught to make a due improvement both of his word and works.</p>
+            <p>But to come to the Text. The words that I have now read unto you, and indeed the whole Psalme they are a Pill against that prejudice an Antidote against those discouragements that may be, and oftentimes are raised in the minds of men by carnal reason a<g ref="char:EOLhyphen"/>gainst the wayes of God from the prosperity of the wicked, and afflictions of the Godly in the time of this life. That this is the maine scope of the Psalmist is plaine to every intelligent Reader. So that the scope of the Psalme is this, namely to comfort and strengthen the hearts of Gods people against the troubles of their minds, arising from the present flourishing estate of the wick<g ref="char:EOLhyphen"/>ed, and the low condition of Gods people. Now this the Psalmist doth several wayes.</p>
+            <p n="1">1 First, By discovering the shortnesse of wicked mens pro<g ref="char:EOLhyphen"/>sperity, and the certainty of their ruine; shewing that however the wicked might prosper for a time, yet their prosperity is but shortlived, but their ruine inevitable: this you have layd down in the 2.9.10.13. and 20. verses with divers others; which assertion he further confirmes from his own experience as to mat<g ref="char:EOLhyphen"/>ter of fact in the 35. and 36. verses.</p>
+            <p n="2">2. Secondly, By shewing that that little the righteous enjoy in this life, is much better, and much sweeter then all the abun<g ref="char:EOLhyphen"/>dance and revenues of the wicked. verse. 16.</p>
+            <p n="3">3. Thirdly, He assures the Saints of God that even while they are under the greatest presures of present troubles God is still present with them; that he neither doth, nor will forsake his people in their lowest conditions, or greatest straits, but is ever neer unto them to uphold, provide for, direct and protect them. This is at large laid downe in the 17, 18, 19, 23, 24, 28, 33, and 34 verses.</p>
+            <p n="4">4. Fourthly, And most especially the Psalmist removes the stumbling block of the prosperity of the wicked, and the affli<g ref="char:EOLhyphen"/>ctions of the godly by directing men to look beyond the present state of things to the end and issue of them, to look beyond the present exigencies of the righteous unto the future happy end,
+<pb n="3" facs="tcp:43875:3"/>and blessed issue God would undoubtedly give unto all their troubles. He would not have men hasty to judge from the present posture of affaires, but to stay a while, and diligent weigh and observe Gods dealings and dispensations both towards the godly, and towards the wicked; which as you have fully laid down in the 3.4.5.18. and several other verses, so eminently in the Text, and the verse following. In which verses the Psalmist makes a direct opposition betweene the godly and the wicked; and that in a double respect.</p>
+            <p n="1">1. First, In their different wayes or properties. The one is a <hi>perfect man,</hi> the other a <hi>transgressour;</hi> the one <hi>upright,</hi> the other <hi>wicked.</hi>
+            </p>
+            <p n="2">2. Secondly, In their end; the end of one is <hi>peace,</hi> the end of the other <hi>is to be cut off.</hi>
+            </p>
+            <p>But to come to the words of the Text. There are divers read<g ref="char:EOLhyphen"/>ings of these words, though all to the same sense for the sub<g ref="char:EOLhyphen"/>stance of them. The Interlineary renders them <hi>custodi integrum et vide rectum, quia novissimum viro pax,</hi> for his last end is, or will be, peace. <hi>Junius</hi> and <hi>Tremellius</hi> render them, <hi>Obser<g ref="char:EOLhyphen"/>va integrum, et aspice rectum.</hi> Unto which our translation an<g ref="char:EOLhyphen"/>swers, <hi>observe, or marke the perfect man. Piscator</hi> renders the latter word <hi>Considera rectum</hi> consider the upright. Others render the Hebrew words <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> by the abstract. So the Chaldee, Syriack, Septuagint, Aethiopick and Arabick versions. The Chaldee paraphrase, <hi>Serva integritatem, &amp; respice rectum, quia finis hominis est pax.</hi> Keep uprightnesse, and respect the up<g ref="char:EOLhyphen"/>right man; doe not onely behold him, but behold him with an eye of respect, for so God doth, so as to give him a peaceable end. The Syriack thus, <hi>observa simplicitatem, et elige recti<g ref="char:EOLhyphen"/>tudinem, quoniam finis bonus viris pacis,</hi> Observe simplicity, and chuse uprightnesse, because there is a good end to men of peace. The Septuagint and Aethiopick render the latter clause of the verse, <hi>quoniam sunt reliquiae viro pacifico.</hi> But our Translation is full enough to the sense of the Text.</p>
+            <p>To proceed to the Division of the Text. In it you may ob<g ref="char:EOLhyphen"/>serve these parts.</p>
+            <p n="1">1. An act enjoyned. <hi>Mark, behold.</hi> A double act or the the same for substance twice repeated for the more effectual pres<g ref="char:EOLhyphen"/>sing
+<pb n="6" facs="tcp:43875:4"/>the duty upon us.</p>
+            <p n="2">2. Secondly, The object of this act, <hi>the perfect</hi> and <hi>upright-man.</hi>
+            </p>
+            <p n="3">3. Thirdly, The special observable we should take notice of concerning this perfect and upright man; and that is his end or the reason why we are thus to observe the perfect man, because <hi>his end is peace.</hi>
+            </p>
+            <p>Or the Text may be divided into these two parts. Here is 1. the godly mans property, and 2. The godly mans priviledge. His property is perfection, his priviledge is peace. Here is the saints character, and the saints Crown; He is characterized by uprightnesse or sincerity, and crowned with peace. Here is the Christians way, and his end; his motion, and his rest: his way is holinesse, his end happinesse; his motion is towards per<g ref="char:EOLhyphen"/>fection, and in uprightnesse, his rest is peace at his jour<g ref="char:EOLhyphen"/>neyes end</p>
+            <p>As to the further explication of the termes I shall remitt it to the handling of the Doctrines.</p>
+            <p>The Doctrinal conclusions from these words are two.</p>
+            <p>First, <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>1</label>
+               <hi>That the end of perfect and upright men is peace.</hi> Or, <hi>That how troublesome soever the present estate of upright men may be, yet their end is and most certainly shall be peace.</hi>
+            </p>
+            <p>Secondly, <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>2</label>
+               <hi>That God would have men diligently to observe weigh and consider his gracious dealings towards his people, and the good issue he gives to all their troubles, as a meanes to quiet their hearts under the present prosperity of the wicked, and afflictions of the godly.</hi> This latter Doctrine I gather from those words <hi>Mark</hi> and <hi>behold;</hi> The doubling of the expression intimates how much it is our duty to do it, to observe and consider Gods gracious dealings with his saints: as if the Psalmist had said do not pass a sudden, rash and harsh censure on the upright man because you see him under present afflictions, but stay a while till you see the end and issue. It is the end that crownes the action, therefore be contented to stay till you see the upright mans end and then passe sentence. But I intend not the prosecu<g ref="char:EOLhyphen"/>tion of this doctrine, unlesse as it may fall in the application of the former. The first Doctrine is that which by Gods assistance I shall insist on; <hi>viz.</hi>
+            </p>
+            <pb n="7" facs="tcp:43875:4"/>
+            <p>
+               <hi>That the end of the perfect and upright man is peace.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct: </seg>
+               </label>
+            </p>
+            <p>In the prosecution of this Doctrine I shall observe this Method I shall 1. explicate the termes of the Text and Doctrine 2. Con<g ref="char:EOLhyphen"/>firme it by Scripture and reason. 3. apply it: In the explication of the Termes of the Doctrine I shall first shew you, Who this perfect and upright man is? 2. What the upright mans end is, which is here specified? 3. What that peace is the upright man shall enjoy in his end? or in what regards the upright mans en<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is and shall be peace. <label type="milestone">
+                  <seg type="milestoneunit">General. </seg>1</label>
+            </p>
+            <p>The first particular to be explained is what is meant by the <hi>per<g ref="char:EOLhyphen"/>fect</hi> and <hi>upright man.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Explication. </seg>
+               </label> They are two several words tending to expresse the same thing, namely sincerity of heart, and upright<g ref="char:EOLhyphen"/>ness of way. The latter word is exegetical of the former, he tels you whom he means by the perfect man, namely, him who is up<g ref="char:EOLhyphen"/>right. The Hebrew word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is in other places rendred by upright. Psalm 18.23. <hi>I was also upright before him;</hi> and the same word in Gen. 25.27. is rendred <hi>plaine; Jacob was a plaine man</hi> &amp;c. the <hi>Septuagint</hi> render it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>non fucatus, non fictus.</hi>
+            </p>
+            <p>Now for the more cleare opening what is meant by perfection, we are to note that there is a twofold perfection. 1. Legal, 2. Evangelical.</p>
+            <p n="1">1. First, Legal perfection, which is a full conformity in the whole man unto the whole will of God But this is not the perfection meant in the Text, for we may look and look long enough ere we find such a perfect man on this side heaven and this is that which is usually called by Divines perfection of degrees.</p>
+            <p n="2">2. Secondly, There is an Evangelical perfection made men<g ref="char:EOLhyphen"/>tion of in Scripture, and this is twofold.</p>
+            <p n="1">1. A perfection of Justification without us upon the imputa<g ref="char:EOLhyphen"/>tion of the righteousnesse of Christ unto us. And the Saints of God are perfect with this perfection: There is no guilt left unremoved, no sin committed left unpardoned unto beleevers but they are all washt away in the bloud of Jesus Christ. The robes of Christs righteousnesse are large enough to cover all the deformities of the soules of Gods people. Of this per<g ref="char:EOLhyphen"/>fection is that Scripture to be understood, Heb. 10.14. <hi>By one offering he hath for ever perfected them that are sanctified.</hi> And this I call our Evangelicall perfection, because howver in some
+<pb n="5" facs="tcp:43875:5"/>respect it may be called a legal righteousness or perfection, name<g ref="char:EOLhyphen"/>ly as it relates to Christ (Christs righteousness fully answering the law both in its precept and in its threatning) yet as it relates to us, it is purely Evangelical; it being not done by us, but by Christ for us; for it is upon the account of the Grace of the Gospel, that the righteousness of Christ is accepted for us, and that it is revealed, applyed, and imputed to us.</p>
+            <p n="2">2. A second kind of Evangelical perfection is in reference to Sanctification; and it is that which is usually called a perfection of parts, when all the parts and faculties of soul and body are sanctified, and all the parts of Sanctification are wrought in us, so that we are sanctified wholly and throughout in every part, though not sanctified in any part wholly and perfectly. And this the Gospel calls perfection, for as he (though but a child) may properly be called a perfect man, who hath all the parts of a man, though those parts are not yet grown up to their full measure; so is that Christian accounted a perfect Christian in a Gospel-sense, who hath a thorow work of Sanctification wrought in his heart; and this is the perfection spoken of in the Text, which is indeed the same with sincerity and uprightness of heart. To this sense <hi>Pagnine</hi> renders the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Text, perfect. <hi>i. e. Non fraudulentus consilijs, non varius sed simplex;</hi> and further, he is one <hi>qui doctrinâ et fide erga Deum integer, &amp; co<g ref="char:EOLhyphen"/>ram hominibus sine reprehensione, bonam habens conscientiam,</hi> and he describes perfection to <hi>virtus contraria versutiae, &amp; perversi<g ref="char:EOLhyphen"/>tati.</hi> As to the other word in the Text <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> rendred <hi>upright,</hi> the Septuagint render it sometimes by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Justus,</hi> Job 1.1. sometimes by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Verus,</hi> Job 2.3. sometimes by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Rectus</hi> Judg. 17.6. sometimes by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Purus,</hi> Job 33.3. An upright man is a right man, <hi>i.e.</hi> (saith <hi>Pagnine</hi>) one <hi>qui neutra<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in partem deflectit, qui nec favore nec minis movetur, motu nec praemiis, non suum ex eo quod facit honorem, aut commodum, sed Dei gloriam &amp; proximi utilitatem quaereus.</hi> A very full de<g ref="char:EOLhyphen"/>scription of the upright man.</p>
+            <p>Some observe that when these two words are joyned together the former is taken for inward soundness, and plainness of heart toward God, the latter for outward justice and righteousness towards men. Thus indeed the Godly man is both plain hearted,
+<pb n="9" facs="tcp:43875:5"/>and plain-dealing too. But I look on the latter word as explain<g ref="char:EOLhyphen"/>ing the former.</p>
+            <p>But for the further opening these words, it may be here que<g ref="char:EOLhyphen"/>stioned, how and in what regard the upright man may be called a perfect man, seeing there are so many failings and imperfecti<g ref="char:EOLhyphen"/>ons in the best of Saints?</p>
+            <p>Besides what account hath been already given; namely, that the upright man is perfect in regard of the imputation of Christs righ<g ref="char:EOLhyphen"/>teousness, and with a perfection of parts, there are two more re<g ref="char:EOLhyphen"/>spects, in regard of which the upright man may be fitly called a perfect man.</p>
+            <p n="1">1. The upright man is a perfect man in his aimes, desires and indeavours: He is one that designes perfection, and levels all his aimes, desires, and indeavours at it, perfect holiness is the white he shoots at, and ever hath in his eyes, though he cannot attain unto it, but falls abundantly short of it</p>
+            <p>Perfection of holiness is the aime of Saints on earth, but the reward of Saints in heaven: It is the duty of Saints militant to labour after, but the priviledg of Saints triumphant onely to enjoy. Now God accepts of the will for the deed, and accounts of his people, rather by what they would be, then by what they are. <hi>Origen</hi> speaks well to this purpose, <hi>duplex est perfectio, u<g ref="char:EOLhyphen"/>na quae est in expletione virtutum, altera, cum quis proficit, &amp; ad anteriora nititur:</hi> Nor is that saying of <hi>Seneca</hi> (though a heathen) impertinent to this purpose, <hi>pars magna bo<g ref="char:EOLhyphen"/>nitatis est velle fieri bonum.</hi> Now it is this perfection the Saints of God attain unto. God calls him perfect that would be so, and that would have his imperfections covered, and cured: In the same sense, that he that is born of God may be said not to commit sin. 1 <hi>Joh.</hi> 3.9 may the upright man be said to be perfect. <hi>He doth not commit sin, i. e.</hi> He doth not make sin his design; <hi>non facit peccatum, sed patitur potius,</hi> saith <hi>Bernard:</hi> He suffers sin rather then doth it, He is so far from making sin his work or delight, that it is his greatest burden and affliction: And God chargeth not those sins upon his people which their hearts are set against; for (as <hi>Augustine</hi> saith) <hi>peccata nobis non nocent si non placent;</hi> those sins shall not hurt which doth not please; so now on the other side, the aime and desire of the up<g ref="char:EOLhyphen"/>right heart is accounted by God for the act and thing it self. I
+<pb n="10" facs="tcp:43875:6"/>shall conclude this particular with that saying of one, <hi>Christi<g ref="char:EOLhyphen"/>ani sumus affectu potius quam effectu, et maxima pars Christia<g ref="char:EOLhyphen"/>nismi est toto pectore velle fieri Christianum.</hi> So I say the great<g ref="char:EOLhyphen"/>est part of a Christians perfection in this life consists in a sincere desire and endeavour after it.</p>
+            <p n="2">2. Secondly, The upright man is a perfect man in regard of his present tendency, and in regard of the end and issue he shall at last most certainly arrive at. He that is now an upright man shall most certainly at last be a perfect man. Uprightnesse is in a tendency towards perfection; as the child who at present hath a perfection of parts, is in a tendency to be a perfect man in regard of strength, stature and degree; so the upright man, who is now perfect in regard of parts, shall be so at last in regard of degrees: so that the Text calls him a perfect man, not so much in regard of what he now is as to degrees, as in regard of what God in<g ref="char:EOLhyphen"/>tends to make him, for whom God hath made upright, he will make perfect Matth. 12.20. <hi>A bruised reed shall he not break, and smoaking flax shall he not quench till he send forth judge<g ref="char:EOLhyphen"/>ment to victory.</hi> Philipp. 1.6. <hi>He which hath begun a good worke in you, will performe it untill the day of Jesus Christ.</hi> And so much shall suffice for the opening the first particular, the subject of this proposition, <hi>viz.</hi> the perfect and upright man: The fur<g ref="char:EOLhyphen"/>ther opening the nature of sincerity I shall reserve for application.</p>
+            <p n="2">2. The 2<seg rend="sup">d</seg> particular to be explicated for the more full and cleare understanding of the Text and Doctrine is to enquire what is here to be understood by the upright mans end: <hi>For the end of that man is peace.</hi> Now this expression comprehends these three things, which may be all gathered from the notation and use of the Hebrew word in the Text.</p>
+            <p n="1">1. First, The Hebrew word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> notes the end or issue of a businesse or undertaking; and so it may well be taken in this place, namely for that good and comfortable end and issue God will give to all the upright mans troubles, and unto all his act<g ref="char:EOLhyphen"/>ings and undertakings. And unto this sense the Syriack Version agrees, which is translated <hi>finis bonus viris paecis,</hi> There shall be a good issue to the troubles and afflictions of all upright men: though his beginning, and progress to, may be full of perplexing troubles, yet his end will be rest and peace; God will at last
+<pb n="11" facs="tcp:43875:6"/>deliver him out of all his troubles. Psalm. 34.19 and find a way for his people to escape the hurt of all temptations, 1 Cor 10.13.</p>
+            <p n="2">2. Secondly, By the end of the upright man may be here understood the end and period of the upright mans Natural life as well as of his troubles. His end (i. e.) his death; the Interlineary renders the Hebrew word by <hi>novissimum,</hi> his last end, what ever troubles the upright man may meet with or lye under while he lives, yet when he comes to dye, he shall be sure to have rest and peace, and to lay down his aking head and heart in the bosom of Jesus Christ. Isaiah. 57.2. <hi>He shall enter into peace, they shall rest in their beds, each one walking in his uprightnesse.</hi>
+            </p>
+            <p n="3">3. Thirdly, By the end of the upright man may be understood the seed and posterity of the upright man. So the <hi>Septuagint</hi> render the word in the Text <hi>reliquiae,</hi> his relicts and remainders those he leaves behind him they shall be blessed. He shall leave a blessing of peace behind him unto his seed and posterity after him. If God should not visible deliver him, yet his posterity shall fare the better for him; God hath blessings laid up in store for them, and I find the word in the Text so used, Psam 109.13. <hi>Let his posterity be cut off.</hi> Now that the upright mans posterity shall be blessed, is proved from Psalm. 37. vers. 25.26. <hi>I have been young, and now am old, yet have I not seen the righteous forsaken, nor his seed begging bread. He is ever merciful and lendeth, and his seed is blessed.</hi> Psalm. 112.2. <hi>His seed shall be mighty on earth, the generation of the upright shall be blessed.</hi> And that this is at least comprehended in the Text as a part of the meaning of it, seemes cleare to me from the verse following the Text, where it is said <hi>the end of the wicked shall be cut off,</hi> which is opposite to the end of the upright man: now by the end of the wicked seemes to be understood (and it is so interpreted by divers) the posterity of the wicked. And I see no reason why all three Interpretations may not well be taken in to make the sense full. 1. God will give a good issue to his troubles. 2. He shall have peace in his death; and 3. God will blesse his posterity.</p>
+            <p n="3">3. The third particular to be explicated in the opening of the Text and Doctrine is what is here meant by peace, or what peace it is which the perfect and upright man shall injoy at his end? As to the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Peace;</hi> it is a very comprehensive word
+<pb n="12" facs="tcp:43875:7"/>including all sorts and kinds of blessings both temporal and spi<g ref="char:EOLhyphen"/>ritual, and both may be here comprehended. The word notes <hi>tranquillitatem, et opponitur peturbationi confusioni &amp; seditioni,</hi> as Pagnin notes. It notes also <hi>prosperum rerum statum, unde hâc voce utuntur in salutationibus bene precantes;</hi> Hence when any would wish well unto others in their salutations, they were wont to wish, peace unto them.</p>
+            <p>But I proceed to shew more distinctly what is here meant by peace.</p>
+            <p n="1">1. By this peace in the Text may be understood externall peace. This Text is sometimes fulfilled literally unto the people of God, and that either,</p>
+            <p n="1">1. By Gods causing his people after many troubles in their lives, in the close of their days to enjoy even outward peace and prospe<g ref="char:EOLhyphen"/>rity. God oftentimes after a stormy and blustring day sends a calme and quiet evening unto the upright man. Thus God graciously dealt with Job as you may see in the 42. Chapter of that Booke.</p>
+            <p>Or secondly the end of the upright man may be said to be peace even in regard of outward peace; when God takes him away, though by death before some great calamities approach<g ref="char:EOLhyphen"/>ing towards a place or people. The upright mans end is peace though he die in Warre, when God takes him away from the evill to come. <hi>Isa.</hi> 57.1, 2. though the righteous man seeme to <hi>perish,</hi> and though he may be <hi>taken away</hi> by a violent death, yet his end is, and he <hi>enters into peace.</hi> 2. King. 22.20. is to be interpreted, where <hi>Josiah</hi> is said to be <hi>gathered into the grave in peace,</hi> though he died in battel, because he was taken away before those sad calamities that came upon <hi>Judah,</hi> which God had threatned against them, as the following words in that verse clearely prove. But this is not the Principal thing meant in the Text.</p>
+            <p n="2">2. Secondly, Therefore by the peace spoken of in the Text is understood peace with God. The upright man, though he may and should have all his dayes Warre and contention with men, yet he hath at present, and shall be sure at last to have peace with God. He dies in Gods favour, though he may live, and should die under mens frownes. And this peace with God
+<pb n="13" facs="tcp:43875:7"/>is the fountaine of all other true and solid peace; flowing from Justification by faith, Rom. 5.1. <hi>Being justified by faith we have peace with God.</hi> This peace indeed upright men have while they live though they do not alwayes feele it. But they are sure to have it eminently at their end.</p>
+            <p n="3">3. Thirdly, By the peace spoken of in the Text, which is the upright mans end, is to be understood peace of and with their own consciences; though the upright man hath troubles without yet he hath peace within; though he may have few friends a<g ref="char:EOLhyphen"/>broad, yet he hath one at home, a friend in his own bosom, namely a pacified conscience; yea though he may have much unquietnesse in his Conscience at present through unbelief and uneven walkings, yet all these shall be quieted at last. 'Tis true, I grant, this peace is not alway visible to standers by, nor ever so far sensible unto the upright man himselfe, as that he is able to discover it unto others; and therefore we are not to judge of mens ends so much by their expressions of peace and and joy at the time of death, as by the course and tenours of their lives and conversations; and let me adde this further, that usually when any of Gods people want peace, when they come to die, it is from some failer of uprightness in their lives, the sting of which may wound the conscience of one, who hath been upright in the maine bent of his heart. It is the unevenness of Christians lives that is usually the cause of their despondencies at death's approach; yea and God may somtimes suffer the Sun of upright men to set in a cloud, as to visible appearances of joy and comfort, for the just punishment of wicked men, that those who would not be won by the holiness of their lives, should be justly hardned by their seeming uncomfortable Deaths. And this you may be assured of, that if Gods people do want sen<g ref="char:EOLhyphen"/>sible expressions of joy, yet God alwayes keeps up the hearts of upright men in away of humble dependence, and holy recum<g ref="char:EOLhyphen"/>bency upon Jesus Christ; they ever die in faith, and that is the ground of peace. He that dies in faith dies in peace, and if there be any gracious soule concerning whom you cannot say he died with joy, yet this <hi>Epitaph</hi> may be written upon the tombs of all upright men, which you have recorded Heb. 11.13. <hi>These all died in faith.</hi> This is a third kind of peace comprehended in the Text and doctrine.</p>
+            <p n="4">
+               <pb n="14" facs="tcp:43875:8"/> 4. A fourth kind of peace the upright man hath at his end, is peace with men, or however from men. His end is peace with men, and that both as to the frame of his owne heart, he freely forgiving and praying for his bitterest and cruellest enemies; &amp; also in that usually upright men leave a good name behind them; and so sweet a savour from their holy conversations, that their worst enemies cannot but speake well of them, when they are dead, though they most fiercely opposed them when living. Pro. 10.7. <hi>The memory of the just is blessed;</hi> the memory of up<g ref="char:EOLhyphen"/>right men is precious of times among the wicked, but alwayes among the righteous: or secondly if they have not peace with men, yet to be sure the end of upright men is peace from men; from all the wrongs and injuries that have been offered them by wicked and ungodly men while they lived here one earth; then they shall be out of reach of all the rage of men, though here they were the Butt of all their malice, yet then neither the arrows of wick<g ref="char:EOLhyphen"/>ed mens invenom'd tongues, nor the swords of their hands can hurt the upright man; he will then be beyond the Gunshott of them all: that in Job. 3.17, 18, 19. <hi>[There the wicked cease from troubling and there the weary be at rest; there the prisoners rest to<g ref="char:EOLhyphen"/>gether, they heare not the voice of the oppressour; the small and great are there, and the servant is free from his Master,]</hi> though in some sense true of all, yet is especially applicable to the upright man.</p>
+            <p n="5">5. Fifthly, the end of the upright man is peace, as peace imports a quiet resignation of himself and all his unto God. The upright man quietly and confidently resignes his soule unto God, and can commit his children, friends and dearest relations unto God as his and their best friend and Father. <hi>Peace</hi> may be here opposed to perturbation of mind, and to all anxious and solicitous cares and feares relating to posterity. The upright man, as he can trust God with his soule, so he can trust him with all his temporal concernments; he can quietly and with content<g ref="char:EOLhyphen"/>ment leave his children and all relations unto Gods care, provi<g ref="char:EOLhyphen"/>sion and protection; he knowes he leaves them with a better friend and father, then ever he was or could be to them. An excellent passage was that of <hi>Luther</hi> to this purpose, who draw<g ref="char:EOLhyphen"/>ing neere to death said, <hi>Lord thou hast given me wife and children,
+<pb n="15" facs="tcp:43875:8"/>I have no houses, Lands or Portion to leave them; Sed tibi redde; nutri, doce, serva, ut hactenus me pater, pupillorum, et judex viduarum;</hi> I returne them back to thee, Do thou maintaine, teach and preserve them, as hitherto thou hast done me, thou Father of the fatherlesse, and judge of widowes.</p>
+            <p n="6">6. Lastly by peace may here be understood a state of peace and happiness, which the upright man enters into at death. <hi>His end is peace, i.e.</hi> at death he enters into possession of perfect blisse and happinesse, a state of perfect freedome from all mise<g ref="char:EOLhyphen"/>rable-making evils both of sin and afflictions, and into the enjoy<g ref="char:EOLhyphen"/>ment of all happy-making mercyes, both of grace and glory. The upright man at death shall be at peace from sin, that cursed inmate that hath so long perplexed him; from Satan with all his fierce assaults and fierie Darts, and from this present evil world with all its entangling snares. But here before I leave the explication of the terme I shall answer one question, which is this,</p>
+            <p>Why or in what regard is it said that the end of the upright man is peace? Have not upright men peace before their end, <label type="milestone">
+                  <seg type="milestoneunit">Quect. </seg>
+               </label> even immediately upon beleeving? Doth not the Scripture say Rom. 5.1. <hi>Being justified by faith we have peace with God through our Lord Jesus Christ?</hi>
+            </p>
+            <p>To this I answer, That the upright man in this life, <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> and that even then when he lies under greatest troubles, either inward or outward, hath a firme and stable ground of peace? He hath a constant and never failing right to peace; yea, he hath the beginnings and first fruits of peace, yet at his end he hath peace eminently, and that in these 3. respects.</p>
+            <p n="1">1. The upright man at his end shall have full and perfect peace; now upright men have onely tastes of this peace, but then they shall have full meals. Now they gather but the clust<g ref="char:EOLhyphen"/>ers of Canaan, but then will be the vintage; now they have but the first fruits, but then they shal reap the full harvest and crop of joy and comfort. Isaiah. 26.3. <hi>Thou shalt keep him in perfect peace</hi> &amp;c. The Hebrew is <hi>peace, peace;</hi> peace and nothing else but peace, peace even as much as his heart can hold.</p>
+            <p n="2">2. The upright mans end is peace eminently, for then he shall have and enjoy uninterrupted peace; then there shall no more
+<pb n="16" facs="tcp:43875:9"/>be any ebbings or flowings either of grace or comfort, as now there are; now the most upright men are sometimes up in joy and beleeving, and anon down againe in sorrow and despondencie of Spirit; but then there shall be no interruptions in his enjoy<g ref="char:EOLhyphen"/>ing God, there will be then no clouds of unbeleefe or any other sin hiding Gods face from the soule; no interposition of any sublunary things betweene the upright man and his God to e<g ref="char:EOLhyphen"/>clipse the light of Gods countenance from shining upon his soule.</p>
+            <p n="3">3. The upright mans end is peace eminently, for then he shall be possessed of everlasting peace; the peace and happinesse he shall then enter upon, shall never have an end.</p>
+            <p>And thus you have the Doctrine proved and explicated. I shall conclude this head with that saying of <hi>Bernard,</hi> upright men have <hi>gaudium in re, gaudium in spe; gaudium de possessione, gaudium de promissione.</hi> The same I affirm concerning the peace mentioned in the Text; they have it both in possession and in hope; they have it in regard of those things they already pos<g ref="char:EOLhyphen"/>sesse, and also in regard of what they have in the promise.</p>
+            <p>Having explicated the termes of the Text and Doctrine,
+<note place="margin">2. <hi>Gene<g ref="char:EOLhyphen"/>ral Confirm.</hi>
+               </note> I now proceed to the second generall propounded in the prosecu<g ref="char:EOLhyphen"/>tion of the Doctrine, namely to give the reasons of the Do<g ref="char:EOLhyphen"/>ctrine, why the upright mans end is, and most certainly shall be peace?</p>
+            <p>And the first is, <label type="milestone">
+                  <seg type="milestoneunit">Reas. </seg>1</label> because the upright man hath the ground and foundation of firme and solid peace. He hath an interest in that which is the only ground and foundation of firme and lasting peace, and that is the favour of God, and the blood and merit of Jesus Christ. Now where the ground and cause of any thing is, there the effect must needs follow; but upright men, they have an interest in Gods love and favour, God is reconciled unto them, and therefore peace must needs follow and be the issue. Grace mercy and peace are usually joyned together in Pauls salutations; now an upright man hath an interest in both the former, he hath already been made, partaker of grace and mercy, of Gods free love and favour, and of pardoning mercy and therefore he shall at last most certainly partake of peace also, as the effect and consequent of the former. And as he hath an
+<pb n="17" facs="tcp:43875:9"/>interest in the favour of God, so also in Christ the author and fountaine of peace, and in that precious blood that procures and purchases it. He hath an interest in Christ who is the Prince of peace, and therefore will give peace to all his people Yea Christ is said to be <hi>our peace, Ephes.</hi> 2.14. he having purchased it by his blood: He certainely who hath God to be his God, and Christ to be his Saviour, his end must needs be peace; but so hath every upright man.</p>
+            <p>The end of the upright man is and shall be peace secondly, <label type="milestone">
+                  <seg type="milestoneunit">Reas. </seg>2</label> because he hath the root of peace within him, and that is righte<g ref="char:EOLhyphen"/>ousness, an inward Principle of Spiritual life and grace; and he who hath the root which is righteousnesse shall certainly at last bring forth the fruit which is peace. <hi>Isa.</hi> 32.17. <hi>The work of righte<g ref="char:EOLhyphen"/>ousnesse shall be peace; and the effect of righteousnesse, quietnesse and assurance for ever.</hi> This however at the upright mans end, if not before. For as it is with plants and trees, though the fruit appear not in winter, but be kept in and down by nipping frosts, yet in the spring it doth appeare, and shall be gathered in the Autumn; so though sins and afflictions may nippe the Godly mans peace at present, yet it shall spring up againe, and he shall at last gather the fruit of it.</p>
+            <p>The third reason of the Doctrine <hi>viz.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reas. </seg>3</label> why the upright mans end is peace, is because the upright man hath walk't in the way of peace, and therefore shall attaine it at his journeys end. Ho<g ref="char:EOLhyphen"/>linesse is the way to happinesse, uprightness unto peace; Holi<g ref="char:EOLhyphen"/>ness hath been the upright mans way, and therefore certainly happinesse shall be his end. Whereas on the other side wicked men are described to be such as <hi>have not knowne the way of peace</hi> and therefore they shall never enjoy it, but <hi>destruction and mise<g ref="char:EOLhyphen"/>ry are in their wayes,</hi> and shall be in their end. <hi>Rom.</hi> 3.16.17. For they who walke not in the way, and use not the meanes lead<g ref="char:EOLhyphen"/>ing to such an end shall never attain that end. But uprightness being the way to peace, they who walke in that way shall be sure to attaine it.</p>
+            <p>The 4<seg rend="sup">th</seg> ground or reason of the Doctrine is drawne from the righteousness of God, <label type="milestone">
+                  <seg type="milestoneunit">Reas. </seg>4</label> which engages him to give peace to his people at last, to recompence those troubles and sufferings they have undergone for him here. 2. <hi>Thes.</hi> 1.6.7. <hi>Seeing it is a
+<pb n="81" facs="tcp:43875:10"/>righteous thing with God to recompence tribulation to them that trouble you, and to you who are troubled, rest with us,</hi> &amp;c. Which yet is not to be understood as if these sufferings of Gods people deserved peace and rest. No, the Apostle tells us <hi>Rom.</hi> 8.18. <hi>That the sufferings of this present time are not worthy to be com<g ref="char:EOLhyphen"/>pared with the glory that shall be revealed in us.</hi> So that the recom<g ref="char:EOLhyphen"/>pence of reward bestowed upon Gods people is of free grace and meer mercy: And when it is said to be <hi>righteous with God,</hi> this righteousnesse ariseth not from any proportion between the sufferings and reward, but from the promise of God where<g ref="char:EOLhyphen"/>by he hath engaged to bestow it.</p>
+            <p>The fifth and last Reason, <label type="milestone">
+                  <seg type="milestoneunit">Reas. </seg>5</label> why the end of the upright man is peace, is because the upright man is at peace with his end. He is at peace with death it selfe, so that death is no longer an ene<g ref="char:EOLhyphen"/>my, but a reconciled friend, its sting being taken out. The nature of it is a<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ered unto beleevers from what it is unto wicked men. It is not now the gate of hell, but the doore of heaven. It's not the end of his happiness, but an entrance into glory, and the end of all his miseries. Death is made his, 1. <hi>Cor.</hi> 3.22. Death is there put into the Saints charter; its enrolled in the inventory of their goods and chattells, and reck<g ref="char:EOLhyphen"/>oned among their chiefest and choisest priviledges.</p>
+            <p>I proceed now to the application of the Doctrine. <label type="milestone">
+                  <seg type="milestoneunit">Ʋse. </seg>1</label>
+            </p>
+            <p>The first use of the point is by way of instruction. And there are several practical lessons or inferences that may be dedu<g ref="char:EOLhyphen"/>ced from this Doctrine.</p>
+            <p n="1">1. The first instruction, or inference is this. Learne hence that there is a great deal of difference between the godly and the wicked, as in their way, so also in their end. <hi>The end of the upright man is peace, but the end of the wicked is to be cut off.</hi> There is no peace to the wicked (<hi>Isa.</hi> 57. last.) neither in life, nor at death. God himself hath said it, and therefore wicked men have no ground to expect it. All you who are profane per<g ref="char:EOLhyphen"/>sons, or hypocrites and hollow-hearted Professours expect no peace, but read your doome in the verse following the Text, even <hi>to be destroyed together and to be cut off.</hi> No peace to be lookt for, especially at your latter end, when you come to die then your greatest misery begins. However you may boulster
+<pb n="19" facs="tcp:43875:10"/>up, and please your selves with false hopes while you live, yet when you come to die these will faile you; and then if you die in your sinnes, there will remaine nothing for you but <hi>a fearfull looking for of wrath and fiery indignation, Heb.</hi> 10.17. Oh flatter not your selves therefore with your present worldly enjoyments, but consider what your end is like to be. It will be with you who have enjoyed fill of Creature comforts, of Riches, Ho<g ref="char:EOLhyphen"/>nours, pleasures, if you have not upright hearts, as with the rich man in the Gospel <hi>Luke.</hi> 16.22. at last <hi>he died,</hi> and there was an end of all his enjoyments; and the next newes you heare of him is, <hi>that he was in hell</hi> tormented there, vers. 23.24. So will it be with you: Die you must, and Hell will be your Portion: wicked men they have the workst at last, but now the upright man hath his best at last. <hi>Prov.</hi> 14.32. <hi>The righteous hath hope in his death,</hi> though this way may be rough and troublesome, yet his end is peace. And therefore one saith well <hi>Improbi dum spi<g ref="char:EOLhyphen"/>rant, perant, justus, etiam cum expirat, sperat.</hi> Wicked men while they have life, they have hope: But the hipocrites hope shall perish; their hopes expire with their lives: when they breath out their lives, they breath out their hopes. But now when the upright man comes to dye, his hope is freshest and most live<g ref="char:EOLhyphen"/>ly; and he breathes out his soule into his heavenly Fathers bosom.</p>
+            <p>But here some may object; I do not beleeve all this: <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> For I see many of those that you call wicked men die as peaceably even as the strictest.</p>
+            <p>To this I answer, that indeed wicked men may sometimes die with much seeming peace. But, <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label>
+            </p>
+            <p>First, The hypocrites and wicked mans seeming peace proceeds from the ignorance of his state, not from the goodness of his state; from the ignorance of his misery, not from the well groun<g ref="char:EOLhyphen"/>ded knowledge of his right to happiness. His peace is like the blind mans peace, he is upon the pitts brink, and yet he feares no danger, because he sees none; did he see the dangerous pre<g ref="char:EOLhyphen"/>cipice he stands upon, his heart would ake. Such is the wicked mans peace; he is ready to drop into hell, but he sees it not: did he behold the pitt of hell he is ready to fall into, the flames of hell that are ready to seize upon him, it would make his heart to tremble. And is this peace desireable? Truly no. This
+<pb n="20" facs="tcp:43875:11"/>mans peace is to be pittied, not envied. Suppose he do goe hoodwinked to hell, there his eyes shall be opened to behold his misery.</p>
+            <p>Secondly, the wicked mans seeming peace is from the security of his heart, not from the security of his estate. It is carnal security, not peace of conscience. He is fast a sleepe indeed, but is he ever the further off from danger? when the man is fast asleep, he sleeps sweetly, and never dreames of danger; he may have a swords point at his heart, a fire in his house, and that ready to seize upon him, yet he stirs not, and will you call this peace? Such is the wicked mans peace; there is a knife at his throat, the swords point of Gods wrath at his very heart, the very flames of hell ready to seize upon him, yet he still remaines fast a sleep in security; but he shall awake, if not here, yet hereafter; and then he will feele himselfe burning un<g ref="char:EOLhyphen"/>der Gods eternal wrath.</p>
+            <p>Thirdly, The wicked mans seeming peace is not peace, but presumption. It is built upon false and therefore fading grounds. It is built upon somewhat in himselfe, not upon Jesus Christ, now this will not last alwayes. No, if the light of the word do not discover the emptiness of the grounds of his confidence here, yet he shall have so much light even by the flames of hell hereafter as to see the vanity and falseness of them. It is the godly man only that hath true peace and joy both in life and death. <hi>Gaudium proprium piorum est,</hi> saith <hi>Augustine:</hi> and it is a good and true saying of Seneca, <hi>Sola virtus praestat gaudi<g ref="char:EOLhyphen"/>um perpetuum, securum.</hi> But on the other hand the hypocrits peace must needs be fading, because it is false, <hi>Caduca sunt, quaecunque fucata sunt;</hi> (saith <hi>Cyprian</hi>) whatever is false, is fading.</p>
+            <p n="2">2. The 2<seg rend="sup">d</seg>. instruction, or lesson is the duty of the Text. <hi>Then marke the perfect man, behold the upright.</hi> Learne to observe and improve Gods dealings and different dispensations towards the godly and the wicked; especially improve them to beare up your hearts against the troubles of the Godly, and prosperity of the wicked, considering their different ends.</p>
+            <p n="3">3. The third instruction is, if the end of the upright man, and him only be peace, then envy not the prosperity of the wick<g ref="char:EOLhyphen"/>ed.
+<pb n="21" facs="tcp:43875:11"/>Alas it is but short-lived, it will be soone at an end. <hi>Psal.</hi> 37.2.10.13. <hi>They shall be soone cut down as the grass, and nither as the greene herb. Yet a little while, and the wicked shall not be—The Lord shall laugh at him for he seeth that his day is com<g ref="char:EOLhyphen"/>ing.</hi> Wicked men have their portion in this life, it is all they are ever like to have, and they are like to pay deare for it: envy not therefore, but pitty wicked men in the ruffe of all their jollity.</p>
+            <p n="4">4. The fourth instruction is, Then judge not the upright man as one forsaken of God because afflicted by God, or per<g ref="char:EOLhyphen"/>secuted by men; judge him not by his present condition, but stay Gods time; stay till God hath done with him, and you will then see a peaceable end after a wearysom way. And as we should not judge upright men from their present afflictions, so neither should they judge themselves the less beloved of God, because afflicted; but let them wait Gods time, resting assured that God will make good that promise he hath made unto his people. <hi>Rom.</hi> 8.28. <hi>That all things shall worke together for good to them that love God.</hi>
+            </p>
+            <p n="5">5. The fifth and last instruction is, if the upright mans end be peace, then let none be discouraged from embracing and entring upon the wayes of God at first; or from continuing; and go<g ref="char:EOLhyphen"/>ing on in them, because of any dangers or difficulties attending on them. What though the way be rugged, the end will make a mends for all; judge not of Religion by the ruggedness of the way, but by the blessedness of the end. Looke not so much on the payne of Religion at the present, as on the gaine of Religion in the close. Its peace you are in a tendency to now, <hi>finis concili<g ref="char:EOLhyphen"/>at medijs amorem,</hi> the end commends the means. And the peace spoken of in the Text is that which is worth the labouring after, and suffering for: whatever you have done or suffered, or what ever you may yet doe or suffer, you will never repent of it, nor think your labour lost, or cost and paines, too much, when once you come to be possessed of this peace.</p>
+            <p>The second use of the Doctrine is an use of examination, <label type="milestone">
+                  <seg type="milestoneunit">Ʋse. </seg>2</label> to put all of us upon the serious inquiry, whether we be upright persons, such as have a right to this peace. We have heard the priviledge opened; it concernes us to search whether we
+<pb n="22" facs="tcp:43875:12"/>have the qualification, unto which the promise is made. We should (every one of us) ask our hearts this question. Am I the upright man? Is my heart sincere and perfect with God? I might here urge motives to enforce this duty: But I need say no more then the words of the Text, <hi>The end of that man is peace.</hi> There is naturally a kind of itching humour in the mind of men whereby they are desirous to know the ends and issues of things; some are so desirous of this, that they will goe to the Divel, rather then be ignorant of them. But I can direct you to a lawful way to know what your end will be, what the end and issue will be of any trouble and afflictions: Do but prove your sincerity, and I can tell you what your end shall be, I dare assure you in Gods name, it shall be peace: I shall there<g ref="char:EOLhyphen"/>fore indeavour to lay before you some characters of the upright man, and of that uprightness which entitles unto peace.</p>
+            <p>The first character of uprightness and of the upright man is Universality, <label type="milestone">
+                  <seg type="milestoneunit">Characters. </seg>
+               </label> and Uniformity in his whole course and carriage towards God and men. The upright man is universal and uni<g ref="char:EOLhyphen"/>form in his respect to divine commands. He doth not cry up one duty and cry down another, practise one duty with the allowed neglect of another, but he approves, and indeavours to pra<g ref="char:EOLhyphen"/>ctise every known duty. And indeed he that doth not every thing God commands in desire, purpose and indeavour, he doth nothing in a right manner or from a right Principle. <hi>Sene<g ref="char:EOLhyphen"/>ca</hi> describing a virtuous man (Epist. 120) sayth of him, that he is <hi>idem semper, et in omni actu par sibi,</hi> He is alwayes the same, and in every act like himselfe. Which may be well applied to the religious man: and the same Author in the same Epistle, <hi>Osten<g ref="char:EOLhyphen"/>dit virtutem constantia et omnium inter se actionum concordia.</hi> Oh how will this Heathen shame many professed Christians, whose actions have no sutablenesse, nor bear any proportion one unto the other? And the uniformity of the upright mans obedience expresseth it selfe in two particulars.</p>
+            <p n="1">1 First, The upright man is careful of duties both to<g ref="char:EOLhyphen"/>wards God and toward man; of both first and second table<g ref="char:EOLhyphen"/>duties. And this must needs be thus, seeing all the commands of God are linked together. <hi>Lex tota est una copulativa,</hi> saith <hi>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y<g ref="char:EOLhyphen"/>ricus.</hi> The upright man is a holy man, one that makes consci<g ref="char:EOLhyphen"/>ence
+<pb n="23" facs="tcp:43875:12"/>of his duty towards God: the Septuagint render both words in the Text by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Sanctus, Prov.</hi> 2.21. <hi>Deut.</hi> 32.4. He is no perfect or upright man who is not a holy man, how just and righteous soever he may be in his carriage towards men. And this cutts off all meer moralists from laying claim to since<g ref="char:EOLhyphen"/>rity, such I meane who are exactly just and righteous in their carriage towards men, but altogether careless in discharge of duty they owe to God: This moral justice is highly commen<g ref="char:EOLhyphen"/>dable, but he who hath no more is not an upright man in Gods account. This may do others more good here then it is like to do his own soule hereafter if he goe no further.
+<note place="margin">Mr. Gurnall</note> As one illu<g ref="char:EOLhyphen"/>strateth it well, a man misseth the marke as well by shooting short as wide. The profane person, he shoots wide of Heaven, never comes within view or ken of heaven. But the most exact moralist, if he be no more, shoots short and so is like to misse the marke of happinesse? He may not be far from the kingdom of heaven, but he is never like to come there, if he proceed no further in Religion then nature and reason can conduct him.</p>
+            <p>On the other side the upright man is a just man. He is and must be just to men as well as he is holy in his carriage towards God, yea he cannot be the one in truth without being the o<g ref="char:EOLhyphen"/>ther. The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> In the Text the <hi>Septuagint</hi> render by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>justus Job.</hi> 1.1.8. He is a just man, he is one that will do no man wrong, he will not raise himselfe or his family upon the ruines of others, nor will he impoverish others to enrich himself. <hi>Gen.</hi> 6.9. <hi>Noah</hi> was a just man and perfect. The hy<g ref="char:EOLhyphen"/>pocrite may put on a guise of Religion with the Scribes and Pha<g ref="char:EOLhyphen"/>risees to cover his unjust designes and practises. <hi>Matth.</hi> 23.14. <hi>Wo unto you Scribes and Pharisees, hipocrites, for you devour widows houses, and for a pretence make long Prayers.</hi> But this dares not the upright man doe. No, this is far from upright<g ref="char:EOLhyphen"/>ness, for <hi>ea non est religio, sed dissimulatio, quae per omnia non constat sibi;</hi> that is not Religion but dissimulation, which doth not in all things agree with it selfe: <hi>non est vera religio, quae cum templo relinquitur</hi> (saith <hi>Lactantius.</hi>) That is not true Religion which is left at Church doore. No, true Re<g ref="char:EOLhyphen"/>ligion will goe with a man to his family, to his shop, to his closet. As the Tables, in which the law was ingraven, were written
+<pb n="24" facs="tcp:43875:13"/>on both sides, so the upright mans heart, which is a Copy and and transcript of the law of God, is written on both sides. Now hypocrites, some of them seeme to be very fairely written on one side; look on them in their carriage toward men, they are candid and ingennous. But turne the other side; looke on their carriage towards God, and there is nothing of Religion to be seen or read in their families and Closets. There are of them also that seem to have much of piety, but view them in their shops and dealings with men, and you cannot spell Chri<g ref="char:EOLhyphen"/>stians out of any of their actions. But such as these are at best but half Christians, they have nothing of real religion in them; for divine commands, and graces are linked together; and <hi>vir<g ref="char:EOLhyphen"/>tus una sine alijs nulla est</hi> saith <hi>Gregory,</hi> one virtue without ano<g ref="char:EOLhyphen"/>ther is none at all. But as inequality in the pulse argues distem<g ref="char:EOLhyphen"/>per in the body; so inequality in mens conversations argueth much rottennesse in their hearts; but where there is an unforme respect to Gods commands, he is the upright man whose end shall be peace.</p>
+            <p n="2">2. Secondly, the upright man expresseth the universality and uniformity of his obedience by performing the most unpleasing duties, and renouncing the most pleasing sins. I say upright<g ref="char:EOLhyphen"/>nesse lies very much in this, in a readinesse to embrace, and an indeavour to practise the most hard and difficult duties, those that are most unpleasing to flesh and blood, and to renounce the most pleasing, profitable, and advantagious sinnes: upright<g ref="char:EOLhyphen"/>nesse will carry the heart through the most difficult duties. He is no upright man, who picks and chuseth what he likes best in Religion, but layes aside the rest; he that will practise the easie part of Religion, some external duties, or such duties only as are in credit, and may be performed with safety, but lets alone more and hard difficult duties, or in parting with sins will part only with those he can best spare, is far from uprightnesse. <hi>Ser<g ref="char:EOLhyphen"/>vus, quando ex Domini jussis ea facit tantummodo quae vult jam non Dominicam voluntatem implet sed suam,</hi> saith <hi>Salvian;</hi> that servant which performes onely those commands of his Master which he will, he doth not fulfil his Masters will, but his own. But now the upright man cheerfully goes about those duties, which doe most thwart his own interest: see an instance of this
+<pb n="25" facs="tcp:43875:13"/>in <hi>Abraham,</hi> he can offer up his <hi>Isaac</hi> at Gods command <hi>Gen.</hi> 22.12. And this is made the evidence of his uprightnesse that he could and would deny God nothing. Oh can you part with your <hi>Isaac</hi> at Gods command, sacrifice him to God, namely your dearest lusts and dearest comforts? The upright man is one that (at least in the bent of his heart) can perish for God. Thus <hi>Esther. Chap.</hi> 4.16. He can goe on in a way of duty, though danger, yea death stare him in the face, as <hi>Daniel</hi> and the three children did. And as the upright man is willing to do most unpleasing duties, so to renounce the most pleasing, pro<g ref="char:EOLhyphen"/>fitable and customary sinnes, this <hi>David</hi> pleads as an evidence of his sincerity, <hi>Psalm.</hi> 18.23. <hi>I was also upright before him and I kept my selfe from mine iniquity.</hi> He can be content his Diana should be pulled down (so Christ may be advanced) though his gain come in that way, or it be the ladder, by which he may climb up to honour. But if there be any sin the heart is unwilling to part with, it argues the hart unsound, one corruption indulged proves rottenness in the heart. For as it is not enough to denominate a man healthful, because he is not sick of a fever, pleurisy, or plague, unless he be free from all other diseases, so neither is freedome from some sinns an evi<g ref="char:EOLhyphen"/>dence of sincerity, unlesse there be a hatred of all. The up<g ref="char:EOLhyphen"/>right man yeelds absolute obedience to Gods commands with<g ref="char:EOLhyphen"/>out caring or disputing. Examine whether you be thus uniform in your obedience.</p>
+            <p>Secondly, <label type="milestone">
+                  <seg type="milestoneunit">Character. </seg>
+               </label> A second character of the upright man is truth of heart. The perfect and upright man, he is a man of truth And I find the <hi>Septuagint</hi> rendring both <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>verus.</hi> The former in <hi>Duter.</hi> 32.4. the latter in <hi>Job.</hi> 2.3. And we find a sincere heart a true heart. <hi>Hebr.</hi> 10.22. <hi>Let us draw neere with a true heart</hi> &amp;c. And <hi>Psa.</hi> 57.6. Sincerity is called truth in the inward parts. <hi>Behold thou desirest truth in the in<g ref="char:EOLhyphen"/>ward parts</hi> &amp;c Now this truth of heart notes 2. things, 1. Reality, opposed to that which is fained, or counterfeit 2. Conformity to the Rule, opposed to falseness.</p>
+            <p n="1">1. Truth of heart notes reality; an upright man he is a real man. He is one, that is indeed what he seemes to be: He desires not to seem better then he is, but would be better then
+<pb n="62" facs="tcp:43875:14"/>he seemes; there is a consonancy betweene the upright man's heart, and his tongue; between his lips and his life. He doth not pretend one thing and intend another, nor dareth he make Religion a cloake or cover for his sinful carnal and corrupt de<g ref="char:EOLhyphen"/>signes. The upright man is one whose heart is engaged in every duty he performes to God or men, he is sound at heart, not rotten and hollow-hearted as the hypocrite is. We read in Scripture of a <hi>sound mind.</hi> 2. <hi>Tim.</hi> 1 7. and of a <hi>heart sound in Gods statutes. Psa.</hi> 119 80. And this is the sincere and upright heart. But now the hypocrite, though his outside may be paint<g ref="char:EOLhyphen"/>ed, and look lovely, his inside is filthy and rotten; he is a meer complementer in Religion; he gives God good words, but no<g ref="char:EOLhyphen"/>thing of affection or reality appeares in any of his services. But the upright man is one without guile, (as <hi>Nathaneil</hi> is described to be, <hi>John.</hi> 1.47.) <hi>viz.</hi> he doth neither design, nor indulge guile in his heart. Uprightnesse is the law of God writtenin the hearts not only in the heads of men. The hypocrite is a meer Mast<g ref="char:EOLhyphen"/>er of cerimonies in Religion, according to that of <hi>Augustin</hi> speak<g ref="char:EOLhyphen"/>ing of hypocrites, <hi>quasi conantur quaerere &amp; timent invenire.</hi>
+            </p>
+            <p n="2">2. Secondly, The truth of heart, which is the character of uprightnesse notes as reality, so conformity to the rule. The conformity of the heart unto the rule of Gods word, it is op<g ref="char:EOLhyphen"/>posed to falseness of heart. That is true which answers and is conformable to its Rules; that's a true Coppy which answers to and agrees with the Original. He is an upright man, whose heart answers to the heart of God, who is a man after Gods own heart. So <hi>David</hi> is described to be <hi>Acts.</hi> 13.22. and he was an upright man. The upright man is conformable unto God. His heart ecchoe's unto divine commands. <hi>Psalm.</hi> 27.8. <hi>When thou saidst, seek ye my face, my heart said unto thee, thy face, Lord, will I seek.</hi> He fulfils all Gods wills in desire and endeavours; he hath a heart as large as the command, at least in the bent of it. Hence beleevers are said 2. <hi>Pet.</hi> 1.4. to be <hi>made partakers of the Divine nature,</hi> which is, when there is a sutablenesse in the motions of the heart unto the commands of Christ, and in the actions unto the patterne and example of Jesus Christ. Of the fulness of Christ receiving grace for grace, grace answering to grace, grace in the heart answering grace
+<pb n="27" facs="tcp:43875:14"/>in Christ, as the picture, or rather Image in the glass doth to the man, 2. <hi>Corin.</hi> 3.18. <hi>Beholding, as in a glass; the glory of the Lord are changed into the same Image.</hi> Now there now is a twofold Image, <hi>Imago in pictura</hi> and <hi>Imago in speculo,</hi> the picture hath only some darke resemblances of the man, but; in the Image in the glass there are not only the lineaments of a man, and the proportion of each member, but there is motion for motion: If you smile, so doth the Image in the glass, if you weep, so doth that. Thus it is with the upright man: the hipocrite may be as a dead picture of Religion, but the upright man is the moving and lively Image of Christ. So then he who walkes by rule, by the rule of the word, and according to the pattern of Christ, he is the perfect and upright man, whose end is and shall be peace. <hi>Hebr.</hi> 10.22. <hi>Let us draw neer with a true heart:</hi> It immediatly followe, <hi>with full assurance of faith.</hi> He who hath attained to truth of heart, he is in Gods way un<g ref="char:EOLhyphen"/>to full assurance of faith, and consequently unto peace; search and try therefore your hearts by this character.</p>
+            <p>A third character of uprightness is purity of heart. <label type="milestone">
+                  <seg type="milestoneunit">Character </seg>
+               </label> The up<g ref="char:EOLhyphen"/>right man is one that is pure in heart. The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is by the <hi>Septuagint</hi> rendered <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Gen.</hi> 20.5.6. so also is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Job.</hi> 33.3. the upright man is one without mixture, he doth not mingle with sin and corruption, sin is indeed in his heart, but his heart is not in sin. I do not say, he is pure without sin, but though sin be in him, yet his heart remaines separated from it, and set against it. He is still working it out. Thus Gods people are described, 1 <hi>John.</hi> 3.3 <hi>Whosoever hath this hope in him, puri<g ref="char:EOLhyphen"/>fieth himselfe, even as he is pure. Acts.</hi> 15.9. <hi>purifyeing their hearts by faith.</hi> And it is observable that in both those places it is not said that faith hath absolutely purified their hearts, or that he that hath this hope is altogether purified from sin, but God continues <hi>purifieing</hi> hearts, and he is <hi>purifieing</hi> his heart; it is his daily work. Sin is no ingredient into the frame and con<g ref="char:EOLhyphen"/>stitution of the godly man's heart; but now a wicked man the very frame of his heart mingles with corruption. This is set forth by the resemblance of a pot that hath the scum boyling into it <hi>Ezek.</hi> 24.12 Now this renders the liquor altogether useless. Corruption may sometimes boyle over in the heart of
+<pb n="28" facs="tcp:43875:15"/>an upright man, but then he skims it off and casts it away, it doth not boyle into it; the heart of the wicked man is like a standing water or poole; if any durt or filth be flung into it, it abides there, and settles at the bottome, but the heart of the upright man is like a spring or fountaine of living and running waters, if any durt be flung into it, it workes it out, so purifieth it selfe. Oh search and try your hearts, whether you have this character of an upright heart, that you are continually working out cor<g ref="char:EOLhyphen"/>ruption; for to such peace is promised. <hi>Psalm.</hi> 73.1. <hi>Truly God is good to Israel, even to such as are of a cleane heart. Matth.</hi> 5.8. <hi>Blessed are the pure in heart, for they shall see God.</hi> And sure they who shall see God, their end must needs be peace.</p>
+            <p>A fourth character of the upright man is simplicity and plain<g ref="char:EOLhyphen"/>nesse of heart, <label type="milestone">
+                  <seg type="milestoneunit">Character </seg>4</label> and way. The upright man is a plaine man, and this is opposed to craft, subilty and carnal policy. Hee is; one, as <hi>Pagnine</hi> glosseth, that is not <hi>fraudulentus consilijs, non varius, sed simplex.</hi> This is the character given of <hi>Jacob, Gen.</hi> 25.27. <hi>Jacob was a plaine man.</hi> The <hi>Septuagint</hi> render it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>non fictus, non fucatus. Aquila</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Simplex</hi> a man without folds, not like a serpent that can wind himself in and out. Yea <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is sometimes rendred by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>manifestus</hi> 1 <hi>Sam.</hi> 14.41. <hi>Give a perfect Lot. i.e.</hi> a clear, manifest one. The upright man is a cleare-spirited man; an upright hearted man doth not desire to lie hid, so as not to be known what Religion he is of; he is not <hi>a cunning hunter</hi> as <hi>Esau.</hi> He is one that steers his course in Religion by Principles of piety, not rules of policy; by Scripture-light, not interests of state. He dares not subject his own conscience to his policy, he doth not so much enquire what is safe, as what is warrantable. Though he con<g ref="char:EOLhyphen"/>demne not the wisdome of the Serpent, yet he so allowes and useth it, as he will be sure to maintaine the innocency of the Dove. He is not afraid to own Religion for feare of being counted of a party. A notable Scripture that is (I wish it were written upon doores, yea in the hearts of Politicians) <hi>Psalm.</hi> 10<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.2. <hi>I will behave my selfe wisely in a perfect way.</hi> Upright<g ref="char:EOLhyphen"/>nesse doth not destroy prudence, or policy, but duly regulates it. Christians may, yea must walke wisely, but then it must be in a perfect way, so farr as may consist with a good consci<g ref="char:EOLhyphen"/>ence.
+<pb n="29" facs="tcp:43875:15"/>An upright man makes policy serve Religion, not Re<g ref="char:EOLhyphen"/>ligion subservient unto pol cy. He allowes Religious policy, but he abhorres politick Religion. And truly men of great-parts, and deepe worldly wisdome had need take heed their heads do not out-grow their hearts: But see they bring all their designes and actions unto the word of God, and try them by that. Oh examine your hearts, whether you have this simplicity and plainnesse of heart: For this is that, that will bring peace in the latter end. 2. <hi>Cor.</hi> 1.12. It was simpli<g ref="char:EOLhyphen"/>city, and Godly sincerity, not worldly wisdome that admini<g ref="char:EOLhyphen"/>stred cause of rejoyceing unto <hi>Paul,</hi> and so it will to you.</p>
+            <p>A fifth character of the upright man is singleness, <label type="milestone">
+                  <seg type="milestoneunit">Char. </seg>5</label> and inte<g ref="char:EOLhyphen"/>grity of heart. The perfect and upright man in the Text is a man of integrity, a single-hearted man. Uprightnesse is set forth in Scripture by these and such like Phrases. <hi>A single eye Matth.</hi> 6.22. <hi>singlenesse of heart, Acts</hi> 2 46. <hi>one heart (Ezek.</hi> 11.19.) not a divided one. <hi>A new heart Ezek.</hi> 36.26. and that new heart is <hi>a whole heart. Psal.</hi> 119.2. Its called <hi>following God fully, Numb.</hi> 14.24. and the <hi>Septuagint</hi> render the Hebrew word by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>totus Levit.</hi> 25.30 <hi>a full yeare.</hi> And by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>integer Ezek.</hi> 15.5. Now these expressions carry in them these two things eminently, as those wherein integrity, and singlenesse of heart mainly consists, namely chusing God only, and, following God fully.</p>
+            <p n="1">1. The upright man expresseth and evidenceth the integrity and singlenesse of his heart in chusing God only. God is the upright man's choice. God is his center, where he resolves to fixe, seeking no where else for happinesse. He chuseth God for his portion, and accounts him his exceeding reward. This was the frame of the Psalmists Spirit. <hi>Psalm.</hi> 73.25.26. <hi>Whom have I in heaven but thee? And there is none upon earth, that I can desire besides thee. My flesh and my heart faileth, but God is the strength of my heart, and my portion for ever.</hi> He lookes on Religion as the one thing necessary, and all other things (at least so farr as they hinder him in his christian course) but as incumbrances. Oh search, whether this be the frame of your heart. The upright man singles out God from all other things, both as his object, and as his end; as
+<pb n="30" facs="tcp:43875:16"/>the object of his faith, hope, desire, love, feare, joy and delight; and as the end of all his actions, and undertakings. Hence that phrase of <hi>a single eye. Matth.</hi> 6.22. The hypocrite sees double. He never lookes singly at God, but at God and the world together. The hypocrite hath a fquint eye, lookes many wayes at once: He seemes to looke full in your face, when yet he lookes another way. The hypocrite hath an eye to his profit, pleasure, honour, friends, relations; and yet all this while he seemes to looke God full in the face, as if he had chosen him alone. The upright heart is that <hi>one heart</hi> pro<g ref="char:EOLhyphen"/>mised <hi>Ezek.</hi> 11.19. opposed to a double mind, and a divided heart, to one that hath a heart and a heart, a heart devided betweene God and the world, God and his lusts. But now the hypocrite is a <hi>double minded man</hi> so the Scripture termes him <hi>James</hi> 1.6, 8. He is one in suspence, knowes not which way to take. Sometimes he bids faire for heaven; but then againe he repents of his bargaine, looking on it as a hard bargaine, and the way to heaven as to strict for him. The hypocrite hath a heart (seemingly) for God, and a heart for the world also; but the upright man hath but one heart, and that heart is for God. The upright heart, is an heart one with Christ, and no<g ref="char:EOLhyphen"/>thing else. God will be served with, yea he delights in a bro<g ref="char:EOLhyphen"/>ken heart: But he abhorres a double and divided heart. Try your hearts by this character. Is God your only choice? For the end of this single hearted man is peace. He who hath chosen God will never repent of his choice. <hi>Acts</hi> 2.46. you find gladnesse and singlenesse of heart joyn'd together.</p>
+            <p n="2">2. Secondly, The upright man manifesteth his integrity in that he followes God fully; he serves God with his whole heart, with a whole heart and not a hollow heart; his whole soule, mind, will, affections are all engaged for God <hi>Psalm.</hi> 119.2. <hi>That seek him with his whole heart. Numb.</hi> 14.24 <hi>Ca<g ref="char:EOLhyphen"/>leb fulfilled after the Lord.</hi> His heart was entire, and full for God. He filled up every duty, place, and relation with live<g ref="char:EOLhyphen"/>ly affections, the excercise of grace, and the faithful dis<g ref="char:EOLhyphen"/>charge of duty. Uprightness is that, which fills up all our eu<g ref="char:EOLhyphen"/>ties and all our actions. An upright man is a full man, but an hypocrite is a empty man. <hi>Revel.</hi> 3.2. <hi>I have not found thy
+<pb n="31" facs="tcp:43875:16"/>workes perfect;</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> I have not found them full. There workes made indeed a faire shew, but they were empty. The hypocrites duties, they are all empty duties; he is ful-mouth'd but empty hearted. There is a <hi>vacuum</hi> in his heart and services. There are great desputes <hi>An detur vacuum;</hi> whether there be a <hi>vacuum in nature.</hi> But certainly if it be to be found any where it is in the ignorant man's head, and the hypocrites heart: Hy<g ref="char:EOLhyphen"/>pocrites duties and performances may be full of parts, gifts expressions; as the works, of <hi>Sardis</hi> were; else she would not had a name to live, but they were empty of affection, grace, and experience. But the upright mans duties are filled with grace: His prayers are full prayers, full of Humility, faith, fervency. His hearing is filled with reverence, meek<g ref="char:EOLhyphen"/>nesse, faith, resolutions of obedience. Each relation fill'd with a careful discharge of the duty of that Relation. An up<g ref="char:EOLhyphen"/>right man hath not only a full head, but also a full heart. An hypocrite is for the form of Godlinesse, but not the power. But the upright man is for both, he is for the union of the forme and power of Godlinesse, which is the life of Religion as the separation of them is the very death of Religion. Exa<g ref="char:EOLhyphen"/>mine your uprightness by this character, as that which intitles unto peace. He that thus followes God fully, his end shall be peace. Thus it was with <hi>Caleb.</hi> He was brought to the possession of <hi>Canaan</hi> at last, though he was long in the wil<g ref="char:EOLhyphen"/>dernesse first. And so shall every upright man at last find rest in the heavenly <hi>Canaan.</hi>
+            </p>
+            <p>The fixth character of the upright man is. <label type="milestone">
+                  <seg type="milestoneunit">Character </seg>6</label> He is one that walkes before God, and that walkes with God. I find up<g ref="char:EOLhyphen"/>rightness in Scripture set forth by these expressions. Somtimes by walking before God. <hi>Gen.</hi> 17.1. <hi>walke thou before me, and be thou verfect.</hi> The perfect, upright man is one that walkes before God <hi>i. e.</hi> He walkes alwayes as in Gods sight and pre<g ref="char:EOLhyphen"/>sence. He indeavours to approve himself unto God, rather then unto men. <hi>Psal.</hi> 16.8. <hi>I have set the Lord alwayes before me, becanse he is at my right hand, I shall not be moved.</hi> He sets God alwayes before him, and himselfe alwayes before God. He walkes as continually under Gods allseeing eye, and therefore he lookes to his inward, as well as his outward man:
+<pb n="32" facs="tcp:43875:17"/>And he that doth thus, his end shall certainly be peace, as it followes in <hi>Psalm.</hi> 16.8. <hi>Because he is at my right hand, I shall not be moved.</hi> But now the hypocrite lookes only, or (at last) cheifly unto man his eye, and his approbation. His workes may be exact before men, but <hi>they are not full, perfect.</hi> (<hi>Reve.</hi> 32.) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>before God:</hi> And this is charged on the Church of <hi>Sardis</hi> as her sin. The hypocrites workes may have a very faire gloss to the eyes of men, be full of gifts and seem<g ref="char:EOLhyphen"/>ing zeal, as the workes of <hi>Sardis;</hi> but they were not full before God the searcher of all hearts. He saw somewhat to be want<g ref="char:EOLhyphen"/>ing in them, yea the main requifite of all other, <hi>viz.</hi> the heart. Oh try your uprightnesse by this character.</p>
+            <p>Yea further the upright man is described to be one that walkes <hi>with</hi> God as well as <hi>before him.</hi> He is a man of much communion with God; one that desires, indeavours, and makes it his great designe to maintaine constant, and uninter<g ref="char:EOLhyphen"/>rupted communion with his God. <hi>Gen.</hi> 69. <hi>Noah was just and perfect:</hi> And how did this appear? He walked with God. This is made the evidence of his perfection. His heart was working towards God; Walking is an even, steady motion. Oh search you hearts. Do you study to maintaine commu<g ref="char:EOLhyphen"/>nion with God? Then your end will be peace. Yea it is a signe that you are at peace with God already. <hi>Amos</hi> 3.3 <hi>Can two men walke together, except they be agreed?</hi> And you have an example of this in <hi>Enoch Gen.</hi> 5.24. <hi>Enoch walked with God.</hi> The <hi>Syriack</hi> and <hi>Septuagint</hi> render it <hi>he pleased God.</hi> Which agrees with the Greek <hi>Hebr.</hi> 11.5. And indeed they who walk with God, they please God, and so shall be sure at last to enjoy peace. <label type="milestone">
+                  <seg type="milestoneunit">Charct. </seg>7</label>
+            </p>
+            <p>A seventh character of the upright man is this. He is one that doth all <hi>from</hi> God, and all <hi>for</hi> God. God is the upright man's Principal, and God is his end. His Principle is divine influence, derived from Jesus Christ. His end is the glory of God, and Jesus Christ. These two are inseparable. He cannot act for Christ, that doth not act from him; no man can act a<g ref="char:EOLhyphen"/>bove his Principle; now no Principle can lead the soule unto God, but that which comes from him. The upright man sees all his well-springs of strength, and grace in Christ, and there<g ref="char:EOLhyphen"/>fore
+<pb n="33" facs="tcp:43875:17"/>fetcheth all from him. He acts not only from the strength of natural parts, the improvement of reason, from natural con<g ref="char:EOLhyphen"/>science, or common gifts, but from union with Christ, and a principle of grace received from him. Oh examine your hearts, whether you be such as do all you do in Religion from Christ.</p>
+            <p>And as the upright man doth all from Christ, so he doth all for Christ. God is the upright man's end, God-glorifying, and God-enjoying are the two great designs of the upright man. The upright man is one who can serve God for nought but God himself, knowing that if he hath God, he hath enough, yea, all though he hath nothing else; He can be contented, and well satisfied, if he enjoy God in any duty, estate, or condition, what ever else he may be disappointed of. He is one that values Gods interest above his own, and makes all his interests stoop to Gods. But now the Hypocrite, he makes God, and Religion stoop to, and serve his own ends; he accounts gain his godliness; but the godly man accounts godliness his great gain. It is not the fire of the Altar, but the Gold of the Altar, that the hypo<g ref="char:EOLhyphen"/>crite adores: the advantage to be gained by Religion, not the beauty, and excellency of Religion, is the loadstone that draws the hypocrite to the practise of it. Oh examine your hearts, whether you act for God, and imbrace Religion for its own sake; for then you are the men, whose end shall be peace, for he who makes the glorifying of God his end of intention here on earth, shall comfortably and enjoying of God to be his end in possession, and of execution hereafter in heaven.</p>
+            <p>An eighth Character of the upright man is this. <label type="milestone">
+                  <seg type="milestoneunit">Charact. </seg>8</label> The up<g ref="char:EOLhyphen"/>right man is one that can be contented to be abased, so God and Jesus Christ may be exalted. He can be content to be any thing, yea, nothing, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God so please, that God may be all in all. He is one that prefers Gods honour before his own case, honour, yea, happiness. And on the other hand a dishonour done to God goes nearer his heart, than any wrong, affront, or injury offered to himself. He can (at least in the desire, and bent of his heart) be content that others should be used, though himself be laid aside, provided that God may be exalted: Yea, to be hid in the crowd, so he may lift up Christ upon his shoulders, and render him more conspicuous unto the world: to be made a
+<pb n="34" facs="tcp:43875:18"/>footstool, that Christ may get upon his throne. See two or three instances of this. That of <hi>Moses, Deut.</hi> 31.7. He can incou<g ref="char:EOLhyphen"/>rage <hi>Joshuae,</hi> though he knew he himself was to be turned out of office, to give place to <hi>Joshna.</hi> A thing that would have grated upon the Spirit of an envious, and ambitious hypocrite. So <hi>John</hi> the Baptist, <hi>John</hi> 3.30. <hi>He must increase, but I must de<g ref="char:EOLhyphen"/>crease.</hi> The language of the upright man, when he acts and speaks like himself. The like example of sincerity you have in <hi>Paul,</hi> 2 <hi>Cor.</hi> 4.5. <hi>I preach not my self but Christ,</hi> I desire not that your eyes should be upon me, but that your hearts should be carried unto Christ. The upright man is willing to give God the glory of all his undertakings. As <hi>Joab</hi> sent to <hi>David,</hi> to take the honour of his victory, 2 <hi>Sam.</hi> 12.27, 28. So the up<g ref="char:EOLhyphen"/>right man, when he is inabled to do any thing for God, hee's jealous lest any part of the honour of it should be taken from God, and given unto him: yea, the upright man prefers Gods glory abore his own happiness, upon supposition that both were not consistent, though he well knows, that they are in separa<g ref="char:EOLhyphen"/>ble. See some instances of this. In <hi>Paul, Philip.</hi> 1.24. <hi>Never<g ref="char:EOLhyphen"/>theless to abide in the flesh is more needful for you. Paul</hi> was, and every Saint should be content to want present happiness in hea<g ref="char:EOLhyphen"/>ven, that he might be farther serviceable to God and his Church on earth. And yet further, <hi>Rom.</hi> 9.3. <hi>I could wish that my self were accursed from Christ,</hi> &amp;c. and <hi>Exod.</hi> 32.32.—<hi>blot me, I pray thee, out of thy Book. Paul</hi> was not ignorant that the u<g ref="char:EOLhyphen"/>nion between his soul and Christ was indissoluble, and <hi>Moses</hi> well knew there were no Errataes in the Book of life, yet here<g ref="char:EOLhyphen"/>by they did express their sincere respects to Gods glory, and his peoples good above their own happiness.</p>
+            <p>A ninth Character of the upright man is, <label type="milestone">
+                  <seg type="milestoneunit">Charact. </seg>9</label> He is one that is good in bad times. He is steady and fixed in his principles in the worst times, and vnder variety of dispensations. He will not dishonour God, or wound his <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ence to preserve his safety. An upright man, is a right man. So <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is rendered by the Septuagint, <hi>Judges,</hi> 17.6. He is one that will not be bowed or bent by the sinful customs, or examples of the times, and places where he lives, nor by either the frowns, or smiles of men. Thus <hi>Noah</hi> it described, <hi>Gen.</hi>
+               <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.9. <hi>He was perfect,</hi> and
+<pb n="35" facs="tcp:43875:18"/>that, <hi>in his generation,</hi> which was a very bad one. This was emi<g ref="char:EOLhyphen"/>nent perfection. To be outwardly good, when Religion is in fashion (as <hi>Joash</hi> was seemingly very forward and zealous while <hi>Iehoiada</hi> lived) this is no evidence of sincerity. <hi>Neque enim perfectè bonus est, nisi qui suerit &amp; cummalis bonus,</hi> as an Anti<g ref="char:EOLhyphen"/>ent saith. The upright man is firm, and fixed both in prosperi<g ref="char:EOLhyphen"/>ty, and in adversity. The Laurel keeps its green even in the winter season, so doth the upright man maintain his Integrity in the worst times, and most afflicted state. As it is his duty, so it is also his endeavour to be most <hi>blameless, and harmless in the midst of a crooked and perverse generation,</hi> as the Apostle exhorts, <hi>Philip.</hi> 2.15. He is not one that swims down the stream, or that will stoop by base compliance to any unworthy practices, but he stands his ground, and holds his own in all changes; not by tur<g ref="char:EOLhyphen"/>ning with every wind, (with the worldly politician) but by ha<g ref="char:EOLhyphen"/>ving his heart fixed on the unchangeable God. <hi>Lapidaries</hi> tell us of a stone that retains its vertue, and lustre, no longer than it is set in Gold; a fit emblem of the hypocrite. But the upright man can glory in his tribulations. The upright man is one that dares not use unlawful, and indirect means to avoid danger, pro<g ref="char:EOLhyphen"/>vide for his own safety, no, not to bring about the best ends. He knows that only Gods means can bring about Gods ends in mercy. Examine your hearts by this Character.</p>
+            <p>The tenth and last Character of an upright man is, <label type="milestone">
+                  <seg type="milestoneunit">Charact. </seg>10</label> that he is one that is still pressing after perfection. He contents not him<g ref="char:EOLhyphen"/>self with measures, and degrees of grace alteady received, but labours after more, and further degrees of grace. He lives up to what he knows in his desires and endeavours, and he indea<g ref="char:EOLhyphen"/>vours to know more for that end, that he may live better. He is in continual motion towards God, and making progress in holi<g ref="char:EOLhyphen"/>ness. He is stark naught, that thinks he is good enough. <hi>Dixisti sufflcit? Defecisti,</hi> saith <hi>Beruard,</hi> and the same Father (<hi>Epist.</hi> 91.) <hi>Minimè pro certe est bonus, qui melior esse non vult, &amp; ubi incipit nolle fieri melior, ihi etiam de sinis esse bonus,</hi> He is not good at all, who willeth not to be better: when you begin to be unwil<g ref="char:EOLhyphen"/>ling to become better, you cease to be good. He that stands still in Religion, declines and falls. There is no <hi>medium</hi> be<g ref="char:EOLhyphen"/>tween going forward, and declining in Religion. <hi>Nescit virtus
+<pb n="36" facs="tcp:43875:19"/>me<gap reason="illegible: blotted" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>suram gratiae,</hi> faith <hi>Ambrose;</hi> virtue knows no stint. That of <hi>Bernard</hi> is applicable to this purpose, and is so made use of by him. <hi>Vidit Iacob angelos ascendentes &amp; descendentes, stantem vel sedentem neminem. Iacob,</hi> he saw Angels ascending and de<g ref="char:EOLhyphen"/>scending, but none standing, or sitting still. No, there is no stan<g ref="char:EOLhyphen"/>ding still in the way to heaven. The main of a Christians per<g ref="char:EOLhyphen"/>fection attainable in this life; is earnest breathings after it. The constant work of a Christian, while on earth, is to be breathing after full conformity unto God: according to that of <hi>Augustine, Tota vita boni Christiani est sanctum desiderium.</hi> The whole life of a good Christian is a holy desire. Thus <hi>Iob</hi> describes the righteous man, <hi>Iob</hi> 17.9. <hi>He is one that holds on his way, and grows stronger and stron<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.</hi> He is still in progress, <hi>Prov.</hi> 4.18. <hi>the path of the just is as the shining light, that shineth more &amp; more unto the perfect day:</hi> light is still gaining upon darkness, grows clearer and clearer; so is the path of the just and upright man. And this was the frame and temper of <hi>Pauls</hi> Spirit, <hi>Philip.</hi> 3.12, 13, 14. <hi>I count not my self to have apprehended; but this one thing I do, forgetting those things that are behind, and reaching forth unto those things which are before, I press toward the mark for the price of the high calling of God in Christ Iesus.</hi> Labour to try your hearts by all these Characters. Yet in trying your hearts by any of these Charactes, remember that I am speaking of sin<g ref="char:EOLhyphen"/>cerity: And there are none of these Characters to be under<g ref="char:EOLhyphen"/>stood of a perfection of degrees, as though any of these were to be found in absolute perfection in the Souls of Saints here on earth, or that Gods people can find these actually at all times, but they direct Gods people what they should do and be, what the nature of uprightness leads to, what Saints do, and how they act when they act like themselves, and what they are in the frame and bent of their Spirits, in the desire, design, and utmost endeavour of their souls. So that men must not judge of themselves by any of these marks, by what they are in the heart and brunt of a violent temptation, or on the other hand, by what they are in a sudden pang of affection: But uprightness is to be judged by the general frame and bent of the heart, and the tenour of the life and conversation: And if you then find any of these evidences, you may safely conclude that you are the
+<pb n="37" facs="tcp:43875:19"/>upright men, whose ends shall be peace. And so much for this use, which is the main I had in my eye.</p>
+            <p>The third use of the Doctrine is a word of exhortation, <label type="milestone">
+                  <seg type="milestoneunit">Ʋse </seg>3</label> to exhort all of you to labour to attain, and having attained to maintain this heart-perfection, and uprightnesse in your souls, this frame of spirit, which you have heard at large described to you Labour to be uniform, true, intire, plainhearted, single-eyed Christians. And having once attained it, see you keep it. Hold fast your integrity, and do not let it go, look on it as the choi<g ref="char:EOLhyphen"/>cest jewel in your crown. Keep it as your chiefest treasure, yea as your very life. I conclude this exhortation in general with the gloss of <hi>Augustine</hi> upon the Text. <hi>Tene innocentiam, quo modo cum avarus esses, sacellum tenebas, ne tibi extorqueatur à Diabilo.</hi> Keep your integrity, as the covetous man would do his purse, lest it be wrested from you by the Devil. I shall add two or three words by way of motive.</p>
+            <p n="1">1. Consider that uprightnesse of heart is Gods delight and choice. God loves, delights in, and is well pleased with it; and indeed with nothing you do without it. It is Gods choice. <hi>John</hi> 4.23. <hi>The true worshipers shall worship the Father in Spirit and in Truth: for the Father seeketh such to worship him.</hi> God values not cares, not for the services of hollow-hearted hypo<g ref="char:EOLhyphen"/>crites; but he seeks such to serve him, as worship him in Spi<g ref="char:EOLhyphen"/>rit and in Truth. Psal. 51.6. God <hi>desires truth in the inwatd parts,</hi> yea <hi>the way of the upright is his delight.</hi> Prov. 11.20. Would you therefore please and delight the heart of God, labour then to attain and preserve uprightness.</p>
+            <p n="2">2. Consider that uprightnesse of heart sweetens and savours all you do for God, and covers your infirmities; Uprightness is the salt that seasons all your services, and renders them sa<g ref="char:EOLhyphen"/>voury both to God and men; especially to God. 2 <hi>Chron.</hi> 30.18, 19, 20. <hi>The good Lord pardon every one that prepareth his heart to seek God, the Lord God of his Fathers, though he be not cleansed according to the purification of the Sanctuary: and the Lord heark<g ref="char:EOLhyphen"/>ned to Hezekiah, and healed the people.</hi> O therefore look to the heart in every duty and action, see that that be sound. The <hi>Pri<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st</hi> when he cut up the sacrifice, the first thing he looked at, was the heart; if that were unsound, the sacrifice was rejected.
+<pb n="39" facs="tcp:43875:20"/>Hypoerisie spoils all our performance, and causeth God to loath his own appointments.</p>
+            <p n="3">3. Consider the loss of uprightness in the least degree is one of the greatest losses you can sustain. Better lose your estates, names, liberties, friends, yea your very l<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es, than your sin<g ref="char:EOLhyphen"/>cerity. Whatever you get, though it were a Kingdome, you will be great losers, if you lose the integrity of your hearts. <hi>Quid tibi prodest lucrum auri &amp; damnum innoceutiae.</hi> saith Au<g ref="char:EOLhyphen"/>gustine on the Text. What will the gain of gold profit you with the loss of innocence?</p>
+            <p n="4">4. The 4th motive is that in the Text. If you be upright men, your end will be peace. And that would lead me to a fourth use.</p>
+            <p>Which is of comfort to all upright hearted Christians. <label type="milestone">
+                  <seg type="milestoneunit">Ʋse </seg>4</label>
+            </p>
+            <p n="1">1. Under and against all your present trials, troubles, and af<g ref="char:EOLhyphen"/>flictions, Lift up your hearts, an<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds, for <hi>your end shall be peace.</hi>
+            </p>
+            <p n="2">2. Against the fear of death in reference to your selves. <hi>Your end is peace,</hi> why should you be afraid of that which will bring you rest, and be the end of all your troubles?</p>
+            <p n="3">3. It may comfort you in reference to the death of others; of friends and relations, concerning whom you have ground to hope and judge that they were upright men. It may be a curb to inordinate passion, and grief for the loss of godly friends, seeing <hi>their end is peace.</hi> Though you may have lost, they have gained by their death: And so much for this Text and Doctrine</p>
+            <p>I come now to speak somewhat to that other sad Text God hath given me to speak of, and by which God speaketh unto you; And that is the sad dispensation of divine providence, in taking from the midst of us by death that person of honour, whose funeral solemnities we now celebrate. For my own part, I have been altogether a stranger in my practice to funeral Panegyricks, and as I do confess my self unable for them, and unskilfull in them, so I do profess my self no less unwilling to them; knowing of how dangerous consequence they have for the most part proved, as they have been two ordinarily abused. I have ever accounted the solemn sadnesse, and silent tears of
+<pb n="38" facs="tcp:43875:20"/>the living the best commendations of the dead. The good workes deceased persons have done while they were living and the good names they have left behind them are their best im<g ref="char:EOLhyphen"/>balmings. Yet I see no reason why the commendable good things that have shined forth in persons that have been emi<g ref="char:EOLhyphen"/>nently usefull, and seviceable in their generations, may not be held forth unto others, as a pattern for their imitation, and a spurr to excite to vertuous actions. I know it is expected I should speak somewhat of the honourable person deceased. What I shall speak, shall be not so much to commend the dead, as to excite the living, especially persons of his rank, and qua<g ref="char:EOLhyphen"/>lity, to the imitation of him in such things as were amiable, and lovely in him. I might tell you that he was honourable, being a stem of an antient and honourable family. But this would be be beyond my sphere; and this is that which is better known to the most of you than to my self. And were there nothing else to be said upon this account, yet the greatness, Iearning, wis<g ref="char:EOLhyphen"/>dome, and real worth of the surviving branches of this family are sufficient to render it truly honourable. But why should I in<g ref="char:EOLhyphen"/>sist on this? seeing honour is none of ours properly, Philosophers telling us that <hi>honor est in honorante, non in honorato,</hi> and the Poet could say, <hi>Genus &amp; proavos, non fecimus ipsi, Vix ea nostra veco.</hi> I shall therefore say no more of this, but instance only in suth things, as I my self have had personal knowledge of.</p>
+            <p>And first he was a lover of learning and learned men, yea himself had attained to a good degree of learning above many, yea most of his rank and quality, that enjoyed no greater help to the attaining of it, than he did; what he had being attained by his own industry, without the advantage of University-edu<g ref="char:EOLhyphen"/>cation. He was no stranger to the tongues, and well read in Divinity, Law, and History, with many other commendable parts of learning. And he attained to this in his yonger yeers by great industry. I mention this as a commendable pattern to young Gentlemen, it being that which would turn much more to the account of their, and the publicks profit and advantage, than their spending of their time in hawking, hunting, and rea<g ref="char:EOLhyphen"/>ding Romances. Yet I condemn not the moderate, well-regu<g ref="char:EOLhyphen"/>lated use of lawfull recreations either of body or mind, but
+<pb n="39" facs="tcp:43875:21"/>the immoderate abuse of them; though I wo<gap reason="illegible: missing" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> commend the study of good literature, as that which would render men much more serviceable unto their Country, and more acceptable un<g ref="char:EOLhyphen"/>to all.</p>
+            <p>Secondly, He was a man serviceable to, and in his generation, and many waies instrumental of the pub<gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ck good; one that had served his Country both in Warr and Peace, in Warr as a Commander, in Peace as a Counseller; and that both in a more publick sphere, as a member of Parliament, and in a more pri<g ref="char:EOLhyphen"/>vate capacity, as a Justice of peace in this County. All which places he discharged with much justice, and integrity, without any blemish that I ever heard of. Nor was the sphere of his activity and usefullnesse confined to the State, but he was also serviceable to the Church of God, and eminently in that place wherein he lived. God used him as an instrument of much good, yea the best good of the people of that place, as both they and we (the Ministers of that congregation) unto which he had the relation both of a member and officer, can testify. And all this, not only by incouraging and strengthning the hands and hearts of others; but by actually joyning in promoting the work of reformation, t<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap> due administration of ordinances, and setling order in that place, yea he accounted it no disparage<g ref="char:EOLhyphen"/>ment to act as a ruling officer in the Church of God; and that at such a time when all essayes tending to settle order in the Church, were rather discountenanced (if not scoffed at) by most, than any way incouraged. What others may account of this, I know not: but I cannot but reckon it, because I so esteem it, among his vertues and honours; well knowing that it is a mans highest honour to be serviceable unto God, and to the good of Souls. And let me now commend this to your imitation: and ob that all you that are endowed with riches, honours parts and power, would imitate him in this in endea<g ref="char:EOLhyphen"/>vouring to promote the interest of Christ and souls, in the pla<g ref="char:EOLhyphen"/>ces where you live, according to your ability and opportunity.</p>
+            <p>Thirdly, another particular wherein this person of honour was exemplary, was justice and righteousnesse. In all his dea<g ref="char:EOLhyphen"/>ling with men, He was a man exactly just and righteous. He would oft commend it in others; and make it his care to pra<g ref="char:EOLhyphen"/>ctise
+<pb n="41" facs="tcp:43875:21"/>it himself; as all that he ever had dealings with, that ever I heard of, or spake with, have been, and are ready to testify. He was no oppressor of Neighbours, or Tenants, as too many great men are. He was not one who lived either on the sins or miseries of others. He did not, nay he scorned to raise himself or family upon the ruines of others; either Neighbours, Te<g ref="char:EOLhyphen"/>nants, or Debtors; nor did he live upon or raise and inrich himself by the times, as many others have done; And let me here commend him in this as a pattern for the imitation of all rich and great men. This will cause you to be beloved while you live, and lamented when you dye, and raise you a name better, greater, and more lasting than you can attain by the grea<g ref="char:EOLhyphen"/>test estate, or honour unjustly got or kept.</p>
+            <p n="4">4. Nor was he only just, but also mercifull. His justice was tempered with mercy to Debtors, Tenants, and the Poor. Though he was just to the uttermost in giving others their due, yet he was very mercifull in exacting his due from others. He was a merci<g ref="char:EOLhyphen"/>full Creditor unto his Debtors, remitting not only pounds, or scores, but hundreds, yea thousands to disenabled Debtors, ra<g ref="char:EOLhyphen"/>ther than ruine them and their families, as I have been well assured from those who knew the truth of what I say. He was a mercifull Landlord, as his Tenants can sufficiently bear witnesse; yea he had mercy for the Souls as well as the Bodies of his Tenants, witness his great care to present godly and a<g ref="char:EOLhyphen"/>ble Ministers unto such places, as he was Lord and Patron of; unto which I might add his allowing of twenty pounds a year to the increase of a ministers maintenance at <hi>Hucknall:</hi> Nor was the exercise of his mercy wanting unto the poor, as those of the Town where he lived have abundantly by experience found. And though the suddennesse and shortness of his sick<g ref="char:EOLhyphen"/>nesse prevented alterations in his Will made divers years before his death, wherein probably he would have done much more; yet while he lived he made his hands his own executors, in set<g ref="char:EOLhyphen"/>ling by deed twelve pounds a yeer for ever upon the Almes hou<g ref="char:EOLhyphen"/>ses in <hi>Nottingham</hi> (where be lived) founded and endowed by Mr. <hi>Hanley,</hi> in the ordering of which he was a Trustee. And oh that all you who are rich in the world, would be also rich in good workes; so would you have the prayers of Tenants,
+<pb n="42" facs="tcp:43875:22"/>Debtors, and the poor, while you live, and their teares and praises when you dye, yea when you are dead and gone.</p>
+            <p n="5">5. Another imitable property I would commend to you for your imitation is his affability, curtesie, humility, and peaceable<g ref="char:EOLhyphen"/>nesse of Spirit towards all he conversed with, these are so well known to all he conversed with, that I may spare to speak of them. Such was his condescension to persons much below him in rank and degree, that some have thought he rather see<g ref="char:EOLhyphen"/>med to exceed than be defective in this particular. He was a peace-lover and a peace-maker, and very usefull that way in the place wherein he lived. He was no incroacher on his Neigh<g ref="char:EOLhyphen"/>bours; and I wish great men would imitate him in this; not bearing up themselves from their own power and greatnesse to oppresse and injure others.</p>
+            <p n="6">6. He was a constant frequenter of publick Ordinances, both in his own person, and with his family, and that not on<g ref="char:EOLhyphen"/>ly on the Lords day, but also twice a week at those week-day<g ref="char:EOLhyphen"/>lectures in the place of his habitation, very seldom missing when he was in Town. He was a constant frequenter of month<g ref="char:EOLhyphen"/>ly Sacraments for those six yeers we have enjoyed them through Gods mercy. And oh that he had many followers among men of his rank and quality in this particular. Alas, how many are there vvho can content themselves vvith once a day attendance on Gods Ordinances, and think they do vvell too? but for Lectures, those savour of too much preciseness for them to meddle vvith, as though Religion vvere belovv them.</p>
+            <p n="7">7. He had as well-ordered a Family as most of that big<g ref="char:EOLhyphen"/>ness, and was careful not only for the bodies, but also for the souls of his servants, to have them instructed in the knowledge of God, and Jesus Christ; of late years keeping a Chaplain in his house for that end, and to perform family duties. And this both others and my self can attest upon our own knowledge, that though he hath had servants, that were very dark and ig<g ref="char:EOLhyphen"/>norant when they came to him, yet he hath used such means to<g ref="char:EOLhyphen"/>wards them, that in a little time they have been able to give a sa<g ref="char:EOLhyphen"/>tisfactory account of their knowledge and faith; nor would he allow of profaneness in any under his roof, or keep such ser<g ref="char:EOLhyphen"/>vants,
+<pb n="43" facs="tcp:43875:22"/>as upon admonition would not reform exorbitancies. And let me commend this as matter of imitation. Oh be careful that your Families may be Churches of Christ, not sinkes of loose<g ref="char:EOLhyphen"/>ness and profaneness, as the Families of too many great men are. You, who are Masters of great Families, you have the cure of souls committed to you; and you are to be accountable for the souls of children and servants, if you instruct them not, and hold not up Religion in your families.</p>
+            <p>An eighth commendable virtue in this person of honour, which I would commend to you, especially great men, is that he was an affectionate lover, and cordial friend of Gods faithful Ministers. I know there are many of that function here pre<g ref="char:EOLhyphen"/>sent, that can set their Seals to the truth of this. He loved the company of Gods Ministers, and was both a bountiful entertai<g ref="char:EOLhyphen"/>ner, and a courteous, and friendly visiter of them. Yea, he knew how to rellish plain and powerful preaching, and would often say he liked and loved that best, as that which he found most advantagious to himself, and judged to be most profitable for others. And let me add this, that my fellow-labourer, and my self have found God using him, as a great incourager of our hearts, and strengthner of our hands in Gods work. Nor can I forbear again mentioning his great care to present godly and able Ministers to such places, as he had the gift of, not presenting any, but such as were first commended, proved and approved by neighbour godly Ministers. And oh that you who are men of honour, riches and power would imitate him in this, namely in being friends to Gods Ministers: especially in this age, wherein they are so much despised and discouraged; and not only their persons, but even their calling struck at. And you, who are Patrons of places, see you be careful to present such persons, as may feed, not starve the souls of people: else you will contract the guilt of the bloud of the souls, that perish under unskilful, and unfaithful Ministers.</p>
+            <p>And now judge, whether we have not all cause to drop some tears upon the Tomb of this Honourable Gentleman deceased. He was a general loss: To his yoke fellow, Children, Servants. Friends, the Town where he lived, yea, the Country, and Nati<g ref="char:EOLhyphen"/>on: And in a word he lived beloved, and died lamented. And
+<pb n="44" facs="tcp:43875:23"/>let me now exhort all of you to lay to heart this loss, it being a token of Gods anger towards a place, when he takes away per<g ref="char:EOLhyphen"/>sons that are usefull, and then especially, when they are in the prime of their time. Yea, let me speak a word to you Honou<g ref="char:EOLhyphen"/>rable and Worshipful Gentlemen here present; God hath made a breach among you by the death of this person of Honour. Oh do you labour to fill up the room of such persons, when they are taken away by death, by stirring up your selves unto a greater measure of activity for God and the publick good. And you, who are the Children of this Honourable Person, the Heir especially, do you rise up and serve the Lord in your gene<g ref="char:EOLhyphen"/>ration; see that you inherit your Fathers commendable virtues; Imitate him in what ever I have mentioned, or you have known praise-worthy in him. And now consider, all of you, what hath been spoken, and the Lord give all of us understanding to improve both his word, and this present speaking providence. And so much for this time and occasion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:43875:23"/>
+            <head>On the lamented Death of the tru<g ref="char:EOLhyphen"/>ly Honourable <hi>Francis Pierepont,</hi> Esquire.</head>
+            <l>TO thy dear memory, blest soul! I pay</l>
+            <l>This humble tribute; though in such a way,</l>
+            <l>As rather doth proclaim my want of skill,</l>
+            <l>(That ne'r set foot on high <hi>Parnassus</hi> Hill,)</l>
+            <l>Than thy great merit. Grief knows not the art</l>
+            <l>To break that silence, which might break an heart.</l>
+            <l>My deep resentments of thy Noble love</l>
+            <l>And faithful friendship, I so oft did prove,</l>
+            <l>With all those heavenly virtues did inspire</l>
+            <l>Thy generous breast with more than common fire,</l>
+            <l>I fain would utter, and thereby ingage</l>
+            <l>The cold attempts of a declining age:</l>
+            <l>Which may admire thy Candor, but despair</l>
+            <l>To match that Copy thou hast drawn so fair:</l>
+            <l>Whom not our words, as thy own worth commends,</l>
+            <l>Dear to thy God, thy Country, and thy friends.</l>
+            <l>But why do I in vain strive to rehearse</l>
+            <l>Thy praises in the ligatures of verse?</l>
+            <l>I'le leave that work most worthy, to be done</l>
+            <l>By those in words that not in numbers run,</l>
+            <l>Whose task doth lead them, in a style more free,</l>
+            <l>T'instruct the world how much it lost in thee:</l>
+            <l>In whole example it might plainly read</l>
+            <l>Their doctrine; and find out the way will lead</l>
+            <l>To be both great and good; whose life could teach</l>
+            <l>What men should do, or what themselves did preach.</l>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:43875:24"/>
+            <head>To the never-dying Memory of that thrice Noble Person and Patriot, the Honourable <hi>Francis Pierepont</hi> Esquire, who departed this Life at <hi>Nottingham</hi> the 30<seg rend="sup">th</seg>. day of <hi>Ianuary,</hi> 1658.</head>
+            <l>
+               <hi>IT's somewhat to be Nobly born, and much</hi>
+            </l>
+            <l>
+               <hi>T'inhoerit thousands by the year; what such</hi>
+            </l>
+            <l>
+               <hi>A birth, and birthright speakes, i'th' world appeares</hi>
+            </l>
+            <l>
+               <hi>By the homage paid on all hands unto Peeres,</hi>
+            </l>
+            <l>
+               <hi>And their Coaequals; whom all men Adore</hi>
+            </l>
+            <l>
+               <hi>As Supreme powers: and to say no more,</hi>
+            </l>
+            <l>
+               <hi>Such civil Adoration is their Due,</hi>
+            </l>
+            <l>
+               <hi>Which bids that monstrous Parity Adieu,</hi>
+            </l>
+            <l>
+               <hi>That All-confounding Monster, whose lean Iaws</hi>
+            </l>
+            <l>
+               <hi>Gape wide to swallow both Estates and Laws.</hi>
+            </l>
+            <l>
+               <hi>Long may the Grandieur of this Nation be</hi>
+            </l>
+            <l>
+               <hi>Stockt with such Gentry and Nobilitie,</hi>
+            </l>
+            <l>
+               <hi>As share the Glory of their An'cetries,</hi>
+            </l>
+            <l>
+               <hi>And carry it on to their Posterities.</hi>
+            </l>
+            <l>
+               <hi>But yet all this at highest speakes but low,</hi>
+            </l>
+            <l>
+               <hi>A worldly Glory at the best; a flow</hi>
+            </l>
+            <l>
+               <hi>Of earthly influences, which altogether</hi>
+            </l>
+            <l>
+               <hi>Cannot exceed the Line of this life: neither</hi>
+            </l>
+            <l>
+               <hi>Add one Cubite to a better. See'em</hi>
+            </l>
+            <l>
+               <hi>Nothing'd in death to us: us so to them.</hi>
+            </l>
+            <l>
+               <hi>'Tis sad when Great ones have no other Birth</hi>
+            </l>
+            <l>
+               <hi>T'enoble them than what they have from th' Earth;</hi>
+            </l>
+            <l>
+               <hi>Better unborn, than not be born again;</hi>
+            </l>
+            <l>
+               <hi>The new birth is the noblest: there's a vein</hi>
+            </l>
+            <l>
+               <hi>Of bloud runs in the heart of the believer</hi>
+            </l>
+            <l>
+               <hi>Bespeaks him Heavenly-born; and never</hi>
+            </l>
+            <l>
+               <hi>Doth that Birth fail. So born doth never dy,</hi>
+            </l>
+            <pb facs="tcp:43875:24"/>
+            <l>
+               <hi>But hath in Death Life t' all aeternity.</hi>
+            </l>
+            <l>
+               <hi>How glorious then must he be, to whose Herse</hi>
+            </l>
+            <l>
+               <hi>We sadly pay the Tribute of this Verse,</hi>
+            </l>
+            <l>
+               <hi>Whose Noble linage, great Estate, and all</hi>
+            </l>
+            <l>
+               <hi>Contentments, flowings from them, he could call</hi>
+            </l>
+            <l>
+               <hi>Things on this side true Happiness? else-where</hi>
+            </l>
+            <l>
+               <hi>He sought and found that Happiness, which ne're</hi>
+            </l>
+            <l>
+               <hi>Shall end, or fade; and whose foundation</hi>
+            </l>
+            <l>
+               <hi>Th' Aeternal Spirit laid in Regeneration;</hi>
+            </l>
+            <l>
+               <hi>True saving Grace the Diamond in the Ring,</hi>
+            </l>
+            <l>
+               <hi>Shin'd brighe in his sweet Nature; every thing</hi>
+            </l>
+            <l>
+               <hi>Had such a gratious lustre in him, as</hi>
+            </l>
+            <l>
+               <hi>The Good appear'd still with the Great, and was</hi>
+            </l>
+            <l>
+               <hi>Above it rather: His Humility</hi>
+            </l>
+            <l>
+               <hi>Exalted him; greater you could not see</hi>
+            </l>
+            <l>
+               <hi>Lodg'd in a noble brest; his Spirit might</hi>
+            </l>
+            <l>
+               <hi>Be read in's Habit, void of pride, and quite</hi>
+            </l>
+            <l>
+               <hi>Another thing than vain: without ostent</hi>
+            </l>
+            <l>
+               <hi>Both, for the one was as the other meant.</hi>
+            </l>
+            <l>
+               <hi>That holy heat of love, which in his brest</hi>
+            </l>
+            <l>
+               <hi>Faith had enkindled; he with warmth exprest</hi>
+            </l>
+            <l>
+               <hi>In's deer affections, to Gods ordinances,</hi>
+            </l>
+            <l>
+               <hi>His Ministers and people; his observances</hi>
+            </l>
+            <l>
+               <hi>Of holy duties. private, personal</hi>
+            </l>
+            <l>
+               <hi>Grac't with his walking answerable, were all</hi>
+            </l>
+            <l>
+               <hi>Fair evidences at the least of his</hi>
+            </l>
+            <l>
+               <hi>Syncerity never to fall short of bliss.</hi>
+            </l>
+            <l>
+               <hi>Bring forth the person, rich, poor, old or young</hi>
+            </l>
+            <l>
+               <hi>Can justly say, he ever did him wrong.</hi>
+            </l>
+            <l>
+               <hi>Me thinks I see the Counery round about</hi>
+            </l>
+            <l>
+               <hi>In a bemoaning Posture, groaning out</hi>
+            </l>
+            <l>
+               <hi>Their sighs: with this condoling Sympathy,</hi>
+            </l>
+            <l>
+               <hi>We have lost our Patriot; and hee's mist already.</hi>
+            </l>
+            <l>
+               <hi>Me thinks I hear the City making moane</hi>
+            </l>
+            <l>
+               <hi>One to another our best Neighbour's gone,</hi>
+            </l>
+            <l>
+               <hi>The Ministry especially: we have lost</hi>
+            </l>
+            <l>
+               <hi>A stay, a prop, a Patron, and almost</hi>
+            </l>
+            <l>
+               <hi>Our selves in losing him, who was indeed</hi>
+            </l>
+            <pb facs="tcp:43875:25"/>
+            <l>
+               <hi>Our Friend, and still we found him so at need.</hi>
+            </l>
+            <l>
+               <hi>A friend to Truth, and Peace, but no divider,</hi>
+            </l>
+            <l>
+               <hi>That heal'd our breaches, never made them wider.</hi>
+            </l>
+            <l>
+               <hi>How full of bowels to the Poor? what day</hi>
+            </l>
+            <l>
+               <hi>Past without works of mercy to them? nay</hi>
+            </l>
+            <l>
+               <hi>Scarce any Meal, but at his Gates he fed,</hi>
+            </l>
+            <l>
+               <hi>Whole Troups of hungry souls, with daily Bread.</hi>
+            </l>
+            <l>
+               <hi>When Winters cold, or blustrings, made their stay</hi>
+            </l>
+            <l>
+               <hi>At's Gates less comfortable; he would say</hi>
+            </l>
+            <l>
+               <hi>Let in the Poor, and serve'um: if he saw</hi>
+            </l>
+            <l>
+               <hi>Any among'um naked; he would draw</hi>
+            </l>
+            <l>
+               <hi>Out his Compassions to them, and command</hi>
+            </l>
+            <l>
+               <hi>Cloaths to be put upon'um, his own hand</hi>
+            </l>
+            <l>
+               <hi>Rather than fail would do it; how did the Knell</hi>
+            </l>
+            <l>
+               <hi>These rung at's death outgroan the passing Bell?</hi>
+            </l>
+            <l>
+               <hi>To none an enemy, but to those whose sin</hi>
+            </l>
+            <l>
+               <hi>Proclaim'd them to be so to God; wherein</hi>
+            </l>
+            <l>
+               <hi>He could not hold; but with a holy Zeal</hi>
+            </l>
+            <l>
+               <hi>Break forth, and sometimes ring an angry peal.</hi>
+            </l>
+            <l>
+               <hi>An innocent in doing ought was Evill,</hi>
+            </l>
+            <l>
+               <hi>A very Bungler in the works o'th' Devil.</hi>
+            </l>
+            <l>
+               <hi>A Soul fitted for heaven, where Glorious Grace</hi>
+            </l>
+            <l>
+               <hi>Triumph's with him, in's ever Mansion Place.</hi>
+            </l>
+            <l>
+               <hi>His dearest Consort then, may not return</hi>
+            </l>
+            <l>
+               <hi>Her comforts back again upon his Ʋrn</hi>
+            </l>
+            <l>
+               <hi>With showers of tears; which still dissolve afresh</hi>
+            </l>
+            <l>
+               <hi>With thought, or mention of his Name: much less</hi>
+            </l>
+            <l>
+               <hi>Nothing her self with grief; a greater Honour</hi>
+            </l>
+            <l>
+               <hi>Cannot in this life be conferr'd upon her</hi>
+            </l>
+            <l>
+               <hi>Than this of hers: that she did once possess,</hi>
+            </l>
+            <l>
+               <hi>All in her Deer'st save endless Happiness.</hi>
+            </l>
+            <closer>
+               <signed>John Viner, <hi>Minist. verb: Westmen.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:43875:25"/>
+            <div xml:lang="lat" type="version">
+               <head>In obitum celeberrimi viri <hi>Francisci Pierepont</hi> Ar<g ref="char:EOLhyphen"/>migeri, Carmen funebre.</head>
+               <l>
+                  <hi>O Si vel pietas, vitae cand<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rve moverent</hi>
+               </l>
+               <l>
+                  <hi>Supremos Divos, Tartareasve domos!</hi>
+               </l>
+               <l>
+                  <hi>Si summum Ingenium, studium{que} notabile cursum</hi>
+               </l>
+               <l>
+                  <hi>Fatorum potuit sistere, vivus adhuc,</hi>
+               </l>
+               <l>
+                  <hi>Et gratus vivis, mortis contempserat iram</hi>
+               </l>
+               <l>
+                  <hi>Pierepont, verus Nobilitat is honos.</hi>
+               </l>
+               <l>
+                  <hi>Sed durae nimium Parcae nec talia curant;</hi>
+               </l>
+               <l>
+                  <hi>Fatorum rabiem sistere nemo queat.</hi>
+               </l>
+            </div>
+            <div xml:lang="eng" type="version">
+               <p>Thus Englished.</p>
+               <lg>
+                  <l>O That these links of Noble Birth, high Parts,</l>
+                  <l>Candor that gave him int'rest in all hearts;</l>
+                  <l>Bounty inlarged, unsoil'd integrity,</l>
+                  <l>Wel-temper'd zeal, well-fixed piety</l>
+                  <l>Had made a chain t'have ty'd th'Immortal guest</l>
+                  <l>His Heav'n born soul to th'Mansion of his breast!</l>
+               </lg>
+               <lg>
+                  <l>Then the much loved <hi>Pierepont</hi> still should live,</l>
+                  <l>By's own Embalming self-preservative;</l>
+                  <l>We should not then sit down by weeping cross,</l>
+                  <l>Computing his great worth, and our great loss:</l>
+                  <l>This's all we say to make the reckoning even,</l>
+                  <l>He though thus good, was not too good for heaven.</l>
+               </lg>
+            </div>
+            <closer>
+               <signed>Laurence Palmer.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:43875:26"/>
+            <div xml:lang="lat" type="version">
+               <head>In obitum Nobilissimiac verè cordati viri <hi>Francisci Pierepout</hi> Armigeri, &amp;c.</head>
+               <l>
+                  <hi>PLurima jam strages agrum consecerat whem,</hi>
+               </l>
+               <l>
+                  <hi>Nunc &amp; edax multo fimere pinguis humus,</hi>
+               </l>
+               <l>
+                  <hi>Exemplo quatiente animos; cùm nuncia fati</hi>
+               </l>
+               <l>
+                  <hi>Tristis, ad exitium tota parata, fores</hi>
+               </l>
+               <l>
+                  <hi>Pulsaret faciles non immortalis Amici,</hi>
+               </l>
+               <l>
+                  <hi>Supremum Domino claudere jussa diem.</hi>
+               </l>
+               <l>
+                  <hi>Prodit huic Genius, volucris custodia vitae,</hi>
+               </l>
+               <l>
+                  <hi>Ac cupit intrantis sistere posse gradum.</hi>
+               </l>
+               <l>
+                  <hi>Non patet haec (inquit) sceleratae janua turbae:</hi>
+               </l>
+               <l>
+                  <hi>Improbus haud nostras a<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> adine domos.</hi>
+               </l>
+               <l>
+                  <hi>Non hìc contemni se laesa potentia caeli</hi>
+               </l>
+               <l>
+                  <hi>Questa est in dignis exagitata modis.</hi>
+               </l>
+               <l>
+                  <hi>Hîc malè confictum nec Religion is amorem</hi>
+               </l>
+               <l>
+                  <hi>Impietas prae se ferre superba solet.</hi>
+               </l>
+               <l>
+                  <hi>Hîc nemo socium vix cautum, pessimus arte,</hi>
+               </l>
+               <l>
+                  <hi>Prodidit, intactam dissimuland<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fudem.</hi>
+               </l>
+               <l>
+                  <hi>Pauper is oppressi non hinc penetralia clamor</hi>
+               </l>
+               <l>
+                  <hi>Vindic is assuevit sollicitare Dei.</hi>
+               </l>
+               <l>
+                  <hi>Nullius hîc famam mendaci lividus ore</hi>
+               </l>
+               <l>
+                  <hi>Polluit indoctus censor honesta loqui.</hi>
+               </l>
+               <l>
+                  <hi>Nulla caperatam faedat nubecula frontem,</hi>
+               </l>
+               <l>
+                  <hi>Si for<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>è alloquiis auris amica vacat.</hi>
+               </l>
+               <l>
+                  <hi>Non musis invisa domus, non grata socordi:</hi>
+               </l>
+               <l>
+                  <hi>Compositos juvenes non tulit iste loc us:</hi>
+               </l>
+               <l>
+                  <hi>Nec Junt haec Domini crudelis inhospita tecta,</hi>
+               </l>
+               <l>
+                  <hi>Prompta sed officio gratia fratris adest.</hi>
+               </l>
+               <l>
+                  <hi>Ergo alio concede, tuis nunc parce sagittis,</hi>
+               </l>
+               <l>
+                  <hi>Laethalis senibus findat arundo latus,</hi>
+               </l>
+               <l>
+                  <hi>Aut quibus indignas animas sua corpora gestant;</hi>
+               </l>
+               <l>
+                  <hi>Hîc virtus, Pietas, nobilisatis honos.</hi>
+               </l>
+               <l>
+                  <hi>Hunc vivum poscit proles, hunc uxor, amici;</hi>
+               </l>
+               <l>
+                  <hi>Hunc cives, dives, pauper ubique jacens.</hi>
+               </l>
+               <pb facs="tcp:43875:26"/>
+               <l>
+                  <hi>Quàm voluit Christi nova nupta puerpera membrum,</hi>
+               </l>
+               <l>
+                  <hi>Laetetur secum quodque simul doleat;</hi>
+               </l>
+               <l>
+                  <hi>Vota nihil prosunt; lachryma nihil; impigra telum</hi>
+               </l>
+               <l>
+                  <hi>Mors jacit, &amp; medium guttur utrinque ferit.</hi>
+               </l>
+               <l>
+                  <hi>Per jugulos humor funesto spargitur astu</hi>
+               </l>
+               <l>
+                  <hi>Noxius, allisi pectoris ima gravans:</hi>
+               </l>
+               <l>
+                  <hi>Donec pars melior, sedes pertaesa priores,</hi>
+               </l>
+               <l>
+                  <hi>Ac gaudens caelo liberiore frui;</hi>
+               </l>
+               <l>
+                  <hi>Dum nequit ulteriùs molem sufferre caedentem,</hi>
+               </l>
+               <l>
+                  <hi>Quae, malè conceptis ignibus usta, tumet;</hi>
+               </l>
+               <l>
+                  <hi>Incola carceribus displosi corporis ardens</hi>
+               </l>
+               <l>
+                  <hi>Emicat, angelicis associanda choris.</hi>
+               </l>
+               <l>
+                  <hi>Jam fatis defuncte, Deo qui charus, ab alto</hi>
+               </l>
+               <l>
+                  <hi>Subjectam faelix despice victor humum;</hi>
+               </l>
+               <l>
+                  <hi>Ac tutos sponsi thalamos ingresse beati</hi>
+               </l>
+               <l>
+                  <hi>Convivae niveâ cingito veste latus.</hi>
+               </l>
+               <l>
+                  <hi>Caelicolumque</hi> pie <hi>primâ</hi> te <hi>classe</hi> repone</l>
+               <l>
+                  <hi>Dum subit infernas impia turba domos,</hi>
+               </l>
+            </div>
+            <div xml:lang="eng" type="version">
+               <p>The same in English.</p>
+               <l>GReat was the havock death had made</l>
+               <l>Whil'st every where men dread a shade:</l>
+               <l>The famisht ground was then full fed</l>
+               <l>With a rich feast of bodies dead;</l>
+               <l>What time that breathless Post of fate</l>
+               <l>Knocks at our friends attentive gate,</l>
+               <l>With hastie summons to invite</l>
+               <l>The man to bid the World goodnight.</l>
+               <l>The watch, that had the guard that day,</l>
+               <l>Prevents his speed, and bids him stay;</l>
+               <l>Then holding parly, know (said he)</l>
+               <l>From lewd companions we are free.</l>
+               <l>No horrid crimes this house doth hide;</l>
+               <l>Nor is that Heaven-assaulting Pride,</l>
+               <l>Which vainly scorns the powers above,</l>
+               <l>Charg'd here; nor the dissembled love</l>
+               <l>Of pure Religion made a paint</l>
+               <pb facs="tcp:43875:27"/>
+               <l> To wash and falsifie a Saint.</l>
+               <l>Nor may a <hi>Judas</hi> here commend,</l>
+               <l>Kisse and betray his fearless Friend.</l>
+               <l>The oppressed Poor's vindictivecries</l>
+               <l>Do not from hence to heaven arise.</l>
+               <l>Detracting envy here must raise</l>
+               <l>No damps to poyson others praise.</l>
+               <l>No sullen cloud cast o're the face</l>
+               <l>Obscures the entertainers grace.</l>
+               <l>Which did the Muses so far take,</l>
+               <l>As made the frequent visits make;</l>
+               <l>And bless the place from drowsie Fools,</l>
+               <l>That fill the seats in <hi>Bacchus</hi> Schools:</l>
+               <l>Yet hospitable kindness feasts</l>
+               <l>The civil ever-welcome guests.</l>
+               <l>Then pass us by, and aim thy darts</l>
+               <l>At witherd and out-dated hearts:</l>
+               <l>Or let thine arrowes finde out those</l>
+               <l>Whose brutish corps like Souls inclose!</l>
+               <l>Must Virtue, Grace, and noble Birth,</l>
+               <l>Descend into seplchral earth?</l>
+               <l>And the dear consort of his life</l>
+               <l>Be now a Widdow, not a Wife?</l>
+               <l>And must that stock be now cut down,</l>
+               <l>Whose branches are so fairly grown?</l>
+               <l>Let theirs, let Friends, and Neighbors tears</l>
+               <l>Both rich and poor prolong his yeers!</l>
+               <l>How fain would Christs black comely Bride</l>
+               <l>This flow'r might still uncropt abide;</l>
+               <l>That they might smile and droop together,</l>
+               <l>Or in Serene or Cloudy weather!</l>
+               <l>Tears have no force, nor wishes po</l>
+               <l>To intercept the fatal hour.</l>
+               <l>Death deaf to all, soon strikes a note</l>
+               <l>That sounds harsh from his wounded throat.</l>
+               <l>Now the fell humor doth infest</l>
+               <l>The tronbled region of his brest,</l>
+               <l>So long, till the diviner Form</l>
+               <pb facs="tcp:43875:27"/>
+               <l> Not able to ride out the storm,</l>
+               <l>Fain in safe harbour would retire,</l>
+               <l>And quit the Bark, which all on fire</l>
+               <l>Is soon blown up and forc't to Land</l>
+               <l>Her Pilot on the Ethereal strand.</l>
+               <l>Unbody'd Saint now safely rest</l>
+               <l>From the foul worlds black Tempests blest:</l>
+               <l>And in the Bridegrooms closet dress</l>
+               <l>Thy self with robes, that may confess</l>
+               <l>A richer glorie and more white</l>
+               <l>Than his that doth eclips the night!</l>
+               <l>With crowned Elders then repose</l>
+               <l>Thy pious self; while graceless foes</l>
+               <l>Sail down the Stream, the Port forsake</l>
+               <l>And perish in th' infernal Lake.</l>
+               <closer>
+                  <signed>S. Brunsil.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="poem">
+            <head>On the much lamented Death, &amp;c.</head>
+            <l>MY Coal black muse presents, gives fire</l>
+            <l>Just in my bosome, sounds retire</l>
+            <l>To levity. More zealous thence</l>
+            <l>With sense of loss and loss of sense</l>
+            <l>Proceeds to tell how that of late</l>
+            <l>(Such was her passion) Church and State</l>
+            <l>Had lost a light. So she refuses</l>
+            <l>To be profane amongst the Muses.</l>
+            <l>Such influences subjects grave</l>
+            <l>Upon a Poets vein may have,</l>
+            <l>Especially when they are Noble dust,</l>
+            <l>Religious, Charitable, Just,</l>
+            <l>Learned and politick, such compositions</l>
+            <l>Without, tautologies and repetitions</l>
+            <l>Can nere be press'd; the book of life</l>
+            <l>Is able to decide the strife.</l>
+            <l>O horrid graves yee can retain</l>
+            <l>But what's your own, no <hi>Pierreponts</hi> brain.</l>
+            <l>I summon every heart and hand</l>
+            <l>Within the bounds of holy land</l>
+            <l>T'unite their forces, let them know</l>
+            <l>They've lost a leader, and that now</l>
+            <l>The Church since she is grown more old</l>
+            <l>Must learn to go without a hold.</l>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:43875:28"/>
+            <head>Upon the Death of the Honoura<g ref="char:EOLhyphen"/>ble <hi>FRANCIS PIEREPONT,</hi> third Son of the late Earl of KINGSTON.</head>
+            <lg>
+               <l>KIng of Terrors be not cruel,</l>
+               <l>Man is nature's choycest Jewell.</l>
+               <l>Nay, here's one in whose rare frame</l>
+               <l>Nature laboured for a name,</l>
+               <l>And meant to leave his perfect feature</l>
+               <l>The patern of an happy Creature.</l>
+               <l>A stem of Honour; Fortune's gaze:</l>
+               <l>Mirror of kindness; vertue's praise,</l>
+               <l>Goodness of nature, Love of Arts</l>
+               <l>And Wisdom, mixt with height of parts.</l>
+               <l>Now shall we think to n'other end</l>
+               <l>Gracious Heavens do use to lend</l>
+               <l>Dame Earth her best perfection,</l>
+               <l>But thus to vanish and be gone?</l>
+               <l>Therefore only given to day,</l>
+               <l>To morrow to be snatch'd away?</l>
+               <l>I've seen indeed the hopeful Bud</l>
+               <l>Of a beautiful Rose that stood</l>
+               <l>Ev'n blushing to behold the ray</l>
+               <l>Of the newly welcomed day:</l>
+               <l>But when this flower richly had</l>
+               <l>Himself with swelling glories clad,</l>
+               <l>Fierce <hi>Boreas</hi> did with one rude blast</l>
+               <l>All this flourishing beauty waste;</l>
+               <l>And laid down trembling at his feet</l>
+               <l>Those ruddy leaves, so fresh, so sweet</l>
+               <l>I've seen the morning's lovely ray</l>
+               <l>Hover over the new-born day</l>
+               <l>With rosy wings, so richly bright,</l>
+               <pb facs="tcp:43875:28"/>
+               <l> As if she scorn'd to think of night,</l>
+               <l>When yet a rugged storm (whose scoul</l>
+               <l>Made Heavens radiant face look foul,)</l>
+               <l>Blustered in untimely night,</l>
+               <l>To blot the newly blossom'd light.</l>
+               <l>But were the Roses blush so rare,</l>
+               <l>Or were the Mornings smile so fair,</l>
+               <l>As is Grace, neither cloud, nor wind,</l>
+               <l>But would be courteous, would be kind;</l>
+               <l>For what's more like the Deity,</l>
+               <l>Than blessed hoary Piety?</l>
+               <l>Well, He to whom our sorrow brings,</l>
+               <l>The purest streams of all her springs,</l>
+               <l>He whose precious memory</l>
+               <l>Bathes now in tears of every eye,</l>
+               <l>Was rich in grace, as well as nature,</l>
+               <l>Had those best gifts that bless a Creature.</l>
+               <l>In him goodness joyed to see</l>
+               <l>Proud Honour learn Humility.</l>
+               <l>Oh! in the Center of his Brest</l>
+               <l>(Ev'n sweet, as is the <hi>Phoenix</hi> nest)</l>
+               <l>Was Love, and Pitty: Bounty, Fear,</l>
+               <l>Meekness, Justice, and Knowledge Clear,</l>
+               <l>Yea ev'ry reconciled grace</l>
+               <l>Had there their general meeting place.</l>
+               <l>Religion wore him next her heart,</l>
+               <l>When other shrunk, he would not start.</l>
+               <l>The Ripe endowments of his mind,</l>
+               <l>Had left his years so much behind,</l>
+               <l>That numb'ring of his vertues praise,</l>
+               <l>Death lost the reck'ning of his dayes,</l>
+               <l>And so believing what they told,</l>
+               <l>Immagin'd him exceeding old.</l>
+               <l>Sure had the Tyrant learnt to bear</l>
+               <l>The softest tincture of a Tear,</l>
+               <l>Tears would now have flowed so fast,</l>
+               <l>As to have stopp'd his rashest haste:</l>
+               <l>And sickness sure would glad have been</l>
+               <pb facs="tcp:43875:29"/>
+               <l> Sick her self, to have saved him.</l>
+               <l>Grim destruction here amaz'd</l>
+               <l>In stead of striking, would have gaz'd;</l>
+               <l>And his Feavor wish'd to prove</l>
+               <l>Burning only in his love.</l>
+               <l>But he is dead. Alas! we see</l>
+               <l>Man at his Best is Vanitie.</l>
+               <l>Upon his Tomb pitty may spend</l>
+               <l>The warmest Tears that grief can lend,</l>
+               <l>And sad mortality may hide</l>
+               <l>Under his ashes all her pride,</l>
+               <l>With this inscription o're his head,</l>
+               <l>All hope of long life here, is dead.</l>
+            </lg>
+            <lg type="anagram">
+               <l>
+                  <hi>Franciscus Piereponte</hi>
+               </l>
+               <l>
+                  <hi>Anagr.—Pacifer, sic in rure potens.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Pacifer hic in Rure potens, Dux, Arbiter, Heros:</hi>
+               </l>
+               <l>
+                  <hi>Caelesti Divûm numero jam pace triumphat.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Ita flevit</hi>—Sa. Cotes <hi>Bridgfordiensis.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:43875:29"/>
+            <head>On the Death of the Honourable <hi>Francis Pierepont</hi> Esquire, third Son of the Right Honourable <hi>Robert</hi> Earl of <hi>Kingston.</hi>
+            </head>
+            <l>BUt is he dead? Can I believe</l>
+            <l>That he should dy, and we should live?</l>
+            <l>Me thinks we may the knot untie,</l>
+            <l>Better to live, fitter to dy.</l>
+            <l>(Death I see) doth wisely chuse</l>
+            <l>The Gold, but doth the Dross refuse.</l>
+            <l>If each place had had its right,</l>
+            <l>Thou long since hadst bid us good night:</l>
+            <l>But, now th' art gone, in doubt are we</l>
+            <l>Whether to joy or grieve for thee.</l>
+            <l>Our loss is great, greater thy gain,</l>
+            <l>Our comfort doth exceed our pain:</l>
+            <l>He that writes thy sad Eligie</l>
+            <l>Shewes more love to himself, than thee.</l>
+            <l>Blest Soul! I can no more relate</l>
+            <l>Thy life past than thy present state:</l>
+            <l>My pen can only blot the story</l>
+            <l>Of thy Life, and of thy Glory.</l>
+            <l>Our all's unwelcom courtesy,</l>
+            <l>At best, but well meant Injury.</l>
+            <l>Long may thine live; and forward grow</l>
+            <l>In Grace, and goodness, for to shew</l>
+            <l>The world, that as they bear thy name,</l>
+            <l>They are heirs also of thy fame.</l>
+            <closer>
+               <signed>Sam. Pickering.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>On the much-lamented death of the Honourable <hi>Francis Pierrepont</hi> Esquire.</head>
+            <lg>
+               <l>WHen Sun is set the Stars by their faint light</l>
+               <l>Serve only for to shew us that tis night;</l>
+               <l>Change but the scene, tis we; who now attend</l>
+               <pb facs="tcp:43875:30"/>
+               <l> The dolefull funerals of this noble Friend:</l>
+               <l>Whose presence made it day with us, we knew</l>
+               <l>No night till he bid us and th' World adieu.</l>
+               <l>Surviving friends cannot (though joynd) repair</l>
+               <l>Our loss, only tell us how poor we are:</l>
+               <l>Strangers that live at distance can no more</l>
+               <l>Conceive of it, than we our selves before</l>
+               <l>It did befall us, still so senceless does</l>
+               <l>Enjoyment make us of what's precious.</l>
+               <l>But now quick sighted sorrow hast's t' envite</l>
+               <l>His Epitaph, and dictate thus to write.</l>
+            </lg>
+            <lg>
+               <l>Here lies the glory of his kinde,</l>
+               <l>The sweet composure of whose minde</l>
+               <l>Won all that knew him, such it was,</l>
+               <l>So mil'd, in it as in a glass</l>
+               <l>Others who would behold might see</l>
+               <l>Not what they are, but ought to be.</l>
+               <l>Whom learning had its patron (sad,</l>
+               <l>That we can only say it had.)</l>
+               <l>In whom impartial Justice knew</l>
+               <l>To distribute to each its due.</l>
+               <l>In others weal or woe his heart</l>
+               <l>Would sympathize, and take its part.</l>
+               <l>Happy in reconciling those</l>
+               <l>Whome pride and passion had made foes.</l>
+               <l>A constant hearer of the word;</l>
+               <l>Though great, hee own'd a higher Lord:</l>
+               <l>Whose zeal, and prudence one might see</l>
+               <l>In his well-govern'd family.</l>
+            </lg>
+            <lg>
+               <l>Stay Reader, all's not here exprest;</l>
+               <l>But silent grief sighs out the rest.</l>
+            </lg>
+            <closer>
+               <signed>R. Grant.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:43875:30"/>
+            <head>Uppon the proemature and much lamen<g ref="char:EOLhyphen"/>ted death of the honorable <hi>Francis Pierrepont</hi> Esquire deceased.</head>
+            <l>
+               <hi>AH! why so fast, great Sir? the Soul that was but sent</hi>
+            </l>
+            <l>
+               <hi>A while agoe, so soon to quit its tenement,</hi>
+            </l>
+            <l>
+               <hi>And leav's, is sad and strange to us; such sudden flight</hi>
+            </l>
+            <l>
+               <hi>Doth cloud our day and turn it to a darksome night;</hi>
+            </l>
+            <l>
+               <hi>And thus it needs must do, for though some Stars appear,</hi>
+            </l>
+            <l>
+               <hi>Yet when the sun is set, It's night i'th' haemisphere;</hi>
+            </l>
+            <l>
+               <hi>And so it is with us, for since our sad deprival</hi>
+            </l>
+            <l>
+               <hi>Of thy self, where is thy compeer or thy Rival?</hi>
+            </l>
+            <l>
+               <hi>If to thy birth we cast our eye, thou wast of them</hi>
+            </l>
+            <l>
+               <hi>Whom well we may call surcles shot from noble stem,</hi>
+            </l>
+            <l>
+               <hi>In glistering beams of honour, thou didst brightly shine,</hi>
+            </l>
+            <l>
+               <hi>And virtues pearly chain, to deck thee, it was thine.</hi>
+            </l>
+            <l>
+               <hi>With all the gifts and richest ornaments of nature</hi>
+            </l>
+            <l>
+               <hi>Thou wast stor'd, which might adorn and bless a creature</hi>
+            </l>
+            <l>
+               <hi>The sev'ral parts of happiness which scattered be</hi>
+            </l>
+            <l>
+               <hi>In others, all concentred were, and met in thee.</hi>
+            </l>
+            <l>
+               <hi>Then why so fast away, since to make up thy bliss</hi>
+            </l>
+            <l>
+               <hi>All thinge did thus concur? oh sure the cause was this,</hi>
+            </l>
+            <l>
+               <hi>The little common-wealth of man like greater States</hi>
+            </l>
+            <l>
+               <hi>Hath some certain periods set, and hidden Fates.</hi>
+            </l>
+            <l>
+               <hi>Heavens Statute-Law stands unreverst, that all must die,</hi>
+            </l>
+            <l>
+               <hi>But how, or where, or when, we have no certaintie.</hi>
+            </l>
+            <closer>
+               <signed>S. C.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:43875:31"/>
+            <head>On the Death of that Honourable and worthy Patriot, <hi>Francis Pierepont,</hi> Esq;</head>
+            <byline>Sic Flevit Z. C.</byline>
+            <l>IF to be deeply wise and honest too;</l>
+            <l>If to know well to speak and well to do;</l>
+            <l>If to be learned, and the learneds friend;</l>
+            <l>If much in Alms, nothing in pride to spend;</l>
+            <l>If to grow rich on his own Patrimony,</l>
+            <l>Without the loss, or grief, or curse of any;</l>
+            <l>If to profess Religion, and withall</l>
+            <l>Not to be dangerous, or schismatical;</l>
+            <l>If to be noble at the old <hi>Herald's</hi> rate,</l>
+            <l>And humbler far than those o'th'mushrooms date;</l>
+            <l>If to be both in love and blood most near</l>
+            <l>To the great <hi>Aesculapius, Dorchester;</hi>
+            </l>
+            <l>If to be Parent, Master, Husband, all,</l>
+            <l>As each relations rule doth strictly call;</l>
+            <l>If to attain that heavenly art, to end</l>
+            <l>And umpire strifes, and yet lose neither friend;</l>
+            <l>If these may be esteem'd a good mans glory,</l>
+            <l>They were constellated in <hi>Piereponts</hi> story:</l>
+            <l>And if these lost at once, can make the world</l>
+            <l>Wisely consider her last sand is running;</l>
+            <l>(Cause such a prop and Pillar down is hurld)</l>
+            <l>We need no <hi>Sedgwick</hi> t'tell us [doomesday's coming.]</l>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:43875:31"/>
+            <head>On the much lamented Death of the truly Honorable <hi>Francis Pierepont</hi> Esquire.</head>
+            <l>IS Mourning grown a fashion? and a Hearse</l>
+            <l>Become the common subject of a verse?</l>
+            <l>Are th' muses all close mourners? and are tears</l>
+            <l>The only Pearls which they of late do wear,</l>
+            <l>And drop for beads over their graves to whom</l>
+            <l>In Pilgrimage Poetick feet do come?</l>
+            <l>No wonder then, great Sir, if at your shrine</l>
+            <l>The Muses should turn Vot'ryes, and combine</l>
+            <l>There to lament the loss which they sustain</l>
+            <l>By your sad death; whose sacred Vrn contains</l>
+            <l>Those precious reliques which may justly call</l>
+            <l>For their attendance at your Funeral.</l>
+            <l>
+               <hi>Mahomets</hi> Tomb may unfrequented lye</l>
+            <l>Whilst yours is visited by passers By;</l>
+            <l>O're which to drop our Tears in verse will be</l>
+            <l>Devotion now instead of Poetry.</l>
+            <l>Doth virtue now prove fatal? is't a signe</l>
+            <l>A Starr is falling when it doth out-shine</l>
+            <l>I'ts bright colleagues? doth a more glorious light</l>
+            <l>Only portend a sad approaching night?</l>
+            <l>Do Pearls dissolve the soonest? and they dy</l>
+            <l>Fastest, who best deserve to multiply</l>
+            <l>Their dayes among us? do the highest spheares</l>
+            <l>Finish their course in the least term of yeers?</l>
+            <l>Or have the greatest orbs as well's the least</l>
+            <l>The Earth their Center and the place of rest?</l>
+            <l>Did these things seem so strange to us that you</l>
+            <l>Great Sir, are fain to dy to prove them true?</l>
+            <l>But if our knowledge at no meaner rate</l>
+            <l>Can purchas'd be out of the hands of fate</l>
+            <l>Than by your loss; wee'd rather much remain</l>
+            <l>Ignorant still, than at such cost obtain</l>
+            <pb facs="tcp:43875:32"/>
+            <l> A Demonstration. Could none else be</l>
+            <l>To us a pattern of mortality?</l>
+            <l>But he whose life was so much priz'd by those</l>
+            <l>Who value men by real worth not shewes;</l>
+            <l>And can distinguish by converse with one</l>
+            <l>Right watred Diamonds from a Bristol stone.</l>
+            <l>Such those knew you to be who knew you best,</l>
+            <l>Whose worth was greater than the vulgar Test</l>
+            <l>Could reach to comprehend: they only knew</l>
+            <l>So much as to admire; twas not one view</l>
+            <l>Or two or more made by a vulgar eye,</l>
+            <l>Would serve to take your Elevation by.</l>
+            <l>You lov'd not to expose your self too much</l>
+            <l>To common view; that you reserv'd for such</l>
+            <l>As could discern where the distinction lyes</l>
+            <l>Between Pretences and true Piety.</l>
+            <l>You scorn'd to prostitute Religion to</l>
+            <l>The Lusts of men, as now too many do,</l>
+            <l>Whose consciences are weather-wise, and goe</l>
+            <l>Round with the quarter where the wind doth blow.</l>
+            <l>Your blood receiv'd a nobler tincture from</l>
+            <l>Your great endowments, than by what did come</l>
+            <l>Down from your Auncestors; whose vertues too</l>
+            <l>Had the same Chanel with their blood to you.</l>
+            <l>Next to your noble Brother, whose great worth</l>
+            <l>Have set a Copy to be transcrib'd forth</l>
+            <l>By all great Persons; They may learn by you</l>
+            <l>How to be Noble, Wise, and Learned too.</l>
+            <closer>
+               <signed>
+                  <hi>Edward Stilingfleet</hi> fellow of Saint <hi>Johns</hi> Coll. <hi>Cambr.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:43875:32"/>
+            <head>On the Memory of the Honourable <hi>Francis PIEREPONT,</hi> Esquire, (third Son to the Right Honourable ROBERT, late Earl of <hi>Kingston</hi>) who exchanged this Life for Immorta<g ref="char:EOLhyphen"/>lity, <hi>January</hi> 30th. 1657.</head>
+            <lg>
+               <l>
+                  <hi>IF any ask the reason, why so late</hi>
+               </l>
+               <l>
+                  <hi>My Muse a mournful Song doth meditate,</hi>
+               </l>
+               <l>
+                  <hi>I'le answer, that at first she was struck dumb</hi>
+               </l>
+               <l>
+                  <hi>With petrifying stupor: Let her come</hi>
+               </l>
+               <l>
+                  <hi>To recollect her self, Her sighs and tears</hi>
+               </l>
+               <l>
+                  <hi>Will amply shew the high respect she bears</hi>
+               </l>
+               <l>
+                  <hi>To inshrin'd Virtue, and Nobility</hi>
+               </l>
+               <l>
+                  <hi>Derived higher than Natures pedigree.</hi>
+               </l>
+               <l>
+                  <hi>Hence is't that brokenly she versifies:</hi>
+               </l>
+               <l>
+                  <hi>(Words in deep sorrow cann't be heard for cries.)</hi>
+               </l>
+               <l>
+                  <hi>Copartnership alleviates sufferings;</hi>
+               </l>
+               <l>
+                  <hi>From Sympathy a much less trouble springs:</hi>
+               </l>
+               <l>
+                  <hi>But here such losers are both Church &amp; state,</hi>
+               </l>
+               <l>
+                  <hi>They scarce suffice each to lament her fate,</hi>
+               </l>
+               <l>
+                  <hi>When such as Thou Great Soul, are snatch't away,</hi>
+               </l>
+               <l>
+                  <hi>And so both robb'd on the same dismal day.</hi>
+               </l>
+               <l>
+                  <hi>So that if we lament a Senatour</hi>
+               </l>
+               <l>
+                  <hi>Most sage and faithful, or a Warriour</hi>
+               </l>
+               <l>
+                  <hi>Steel'd with true Valour: Justice, Temperance,</hi>
+               </l>
+               <l>
+                  <hi>All virtues in their Heroick advance</hi>
+               </l>
+               <l>
+                  <hi>Depressed unto dust: While we condole</hi>
+               </l>
+               <l>
+                  <hi>The maim'd Republick, the Church (as if our Soul</hi>
+               </l>
+               <l>
+                  <hi>Were too much seak't in Politicks) cries out</hi>
+               </l>
+               <l>
+                  <hi>Alas! How is it that you look about</hi>
+               </l>
+               <l>
+                  <hi>With careless minds? Is't nothing that I want,</hi>
+               </l>
+               <l>
+                  <hi>When such a Pillar's shrunk? Who was not scant</hi>
+               </l>
+               <pb facs="tcp:43875:33"/>
+               <l>
+                  <hi>In any point whereby to introduce</hi>
+               </l>
+               <l>
+                  <hi>Religion's power into his Housholds use.</hi>
+               </l>
+               <l>
+                  <hi>Nor only acting in a narrow sphere</hi>
+               </l>
+               <l>
+                  <hi>Comes forth in publick fitter to act there.</hi>
+               </l>
+               <l>
+                  <hi>Doctrine (me thinks) and Discipline contend</hi>
+               </l>
+               <l>
+                  <hi>Which have in</hi> Pierepont <hi>lost the greater Friend.</hi>
+               </l>
+               <l>
+                  <hi>Ʋncertain, which most, Truth's Complexion</hi>
+               </l>
+               <l>
+                  <hi>Or Order's Symmetry took his affection.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Which truly noble Candour we in vain</hi>
+               </l>
+               <l>
+                  <hi>May look and wish for, not call back again;</hi>
+               </l>
+               <l>
+                  <hi>Nay rarely find in any mortal brest;</hi>
+               </l>
+               <l>
+                  <hi>Hence 't comes to pass our Friend is gone to rest.</hi>
+               </l>
+               <l>
+                  <hi>An Ostracism ejects him out o' th' world,</hi>
+               </l>
+               <l>
+                  <hi>Which can no longer bear Virtue install'd</hi>
+               </l>
+               <l>
+                  <hi>In State Majestick; but soon tenders up</hi>
+               </l>
+               <l>
+                  <hi>To Heaven the overflowing of its Cup.</hi> —</l>
+               <closer>
+                  <signed>I. T. C. C. I.</signed>
+               </closer>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43875:33"/>
+         </div>
+      </body>
+   </text>
+</TEI>
